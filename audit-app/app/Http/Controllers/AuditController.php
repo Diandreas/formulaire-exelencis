@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\AuditSubmission;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
+use Barryvdh\DomPDF\Facade\Pdf;
 
 class AuditController extends Controller
 {
@@ -73,46 +74,38 @@ class AuditController extends Controller
     }
 
     /**
-     * Export submissions natively to CSV.
+     * Show the dedicated export page.
      */
-    public function export()
+    public function exportPage()
     {
         $submissions = AuditSubmission::latest()->get();
+        $departments = $submissions->pluck('department')->unique()->map(fn($d) => strtoupper($d))->values();
 
-        $out = fopen('php://memory', 'w');
-        
-        // UTF-8 BOM for Excel compatibility
-        fputs($out, "\xEF\xBB\xBF");
-
-        // Define columns
-        fputcsv($out, [
-            'ID', 'Département', 'Réf. Mission', 'Auteur', 'Date Entretien', 
-            'Durée', 'Responsable', 'Fonction', 'Bureau', 'Effectif', 'Date de soumission'
-        ], ';');
-
-        foreach ($submissions as $sub) {
-            fputcsv($out, [
-                $sub->id,
-                strtoupper($sub->department),
-                $sub->reference_mission,
-                $sub->auditeur,
-                $sub->date_entretien ? \Carbon\Carbon::parse($sub->date_entretien)->format('Y-m-d') : '',
-                $sub->duree,
-                $sub->responsable_interviewe,
-                $sub->fonction,
-                $sub->bureau,
-                $sub->effectif,
-                $sub->created_at->format('Y-m-d H:i:s')
-            ], ';');
-        }
-
-        rewind($out);
-        $csv = stream_get_contents($out);
-        fclose($out);
-
-        return response($csv, 200, [
-            'Content-Type' => 'text/csv; charset=UTF-8',
-            'Content-Disposition' => 'attachment; filename="audits_export.csv"',
+        return Inertia::render('Audits/Export', [
+            'totalAudits' => $submissions->count(),
+            'departments' => $departments,
         ]);
+    }
+
+    /**
+     * Generate and download a PDF report — completely outside Inertia.
+     */
+    public function downloadPdf()
+    {
+        // Increase memory and time for large PDF generation
+        ini_set('memory_limit', '512M');
+        set_time_limit(300);
+
+        $submissions = AuditSubmission::latest()->get();
+        $departments = $submissions->pluck('department')->unique()->map(fn($d) => strtoupper($d));
+
+        $pdf = Pdf::loadView('pdf.audits', [
+            'submissions' => $submissions,
+            'departments' => $departments,
+        ])->setPaper('a4', 'landscape');
+
+        $filename = 'rapport_audits_' . date('Y-m-d') . '.pdf';
+
+        return $pdf->download($filename);
     }
 }

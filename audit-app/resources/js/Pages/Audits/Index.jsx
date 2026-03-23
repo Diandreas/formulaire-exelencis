@@ -48,9 +48,9 @@ export default function Index({ submissions }) {
                         <p className="text-slate-500 mt-1">Gérez et consultez les audits d'archivage collectés.</p>
                     </div>
                     <Button variant="default" className="gap-2 shadow-lg shadow-blue-500/20" asChild>
-                        <a href={route('audits.export')} download className="flex items-center gap-2">
-                            <Download className="w-4 h-4" /> Exporter les Données (Excel)
-                        </a>
+                        <Link href={route('audits.export-page')} className="flex items-center gap-2">
+                            <Download className="w-4 h-4" /> Exporter en PDF
+                        </Link>
                     </Button>
                 </div>
 
