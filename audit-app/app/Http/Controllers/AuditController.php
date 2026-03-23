@@ -8,65 +8,111 @@ use Inertia\Inertia;
 
 class AuditController extends Controller
 {
-    public function dashboard()
+    /**
+     * Display the dashboard.
+     */
+    public function index()
     {
         $submissions = AuditSubmission::latest()->get();
-        return Inertia::render('Dashboard', [
-            'submissions' => $submissions,
-            'stats' => [
-                'total' => $submissions->count(),
-                'by_department' => $submissions->groupBy('department')->map->count(),
-                'avg_score' => $submissions->avg('score') ?? 0,
-            ]
+        return Inertia::render('Audits/Index', [
+            'submissions' => $submissions
         ]);
     }
 
-    public function create($department)
+    /**
+     * Show the form for a specific department.
+     */
+    public function show($department)
     {
-        $config = config('audit_forms.forms.' . $department);
+        $validDepartments = ['audit', 'conformite', 'credit', 'daf', 'informatique', 'marketing'];
         
-        if (!$config) {
-            abort(404);
+        if (!in_array($department, $validDepartments)) {
+            abort(404, 'Department not found');
         }
 
-        return Inertia::render('Audit/Create', [
-            'department' => $department,
-            'departmentName' => $config['name'],
-            'prefilledItems' => $config['items'],
+        return Inertia::render('Audits/Form', [
+            'department' => $department
         ]);
     }
 
-    public function store(Request $request, $department)
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
     {
         $validated = $request->validate([
-            'reference' => 'nullable|string',
-            'interviewee_name' => 'required|string',
-            'interviewee_role' => 'nullable|string',
-            'date_interview' => 'required|date',
-            'data' => 'required|array',
+            'department' => 'required|string',
+            'reference_mission' => 'nullable|string',
+            'version' => 'nullable|string',
+            'responsable_interviewe' => 'nullable|string',
+            'fonction' => 'nullable|string',
+            'telephone' => 'nullable|string',
+            'bureau' => 'nullable|string',
+            'effectif' => 'nullable|integer',
+            'agents_formes' => 'nullable|integer',
+            'date_entretien' => 'nullable|date',
+            'duree' => 'nullable|numeric',
+            'chef_mission' => 'nullable|string',
+            'auditeur' => 'nullable|string',
+            'responses' => 'nullable|array',
         ]);
 
-        $submission = AuditSubmission::create([
-            'department' => $department,
-            'reference' => $validated['reference'],
-            'interviewee_name' => $validated['interviewee_name'],
-            'interviewee_role' => $validated['interviewee_role'],
-            'date_interview' => $validated['date_interview'],
-            'data' => $validated['data'],
-            'user_id' => auth()->id(),
-            'score' => $this->calculateScore($validated['data']),
-        ]);
+        $submission = AuditSubmission::create($validated);
 
-        return redirect()->route('dashboard')->with('message', 'Audit soumis avec succès !');
+        return redirect()->back()->with('success', 'Audit soumis avec succès!');
     }
 
-    private function calculateScore($data)
+    /**
+     * Display a specific submission.
+     */
+    public function view(AuditSubmission $auditSubmission)
     {
-        // Simple logic: count 'yes' in the checklist
-        $checklist = $data['checklist'] ?? [];
-        if (empty($checklist)) return 0;
+        return Inertia::render('Audits/View', [
+            'submission' => $auditSubmission
+        ]);
+    }
+
+    /**
+     * Export submissions natively to CSV.
+     */
+    public function export()
+    {
+        $submissions = AuditSubmission::latest()->get();
+
+        $out = fopen('php://memory', 'w');
         
-        $yesCount = count(array_filter($checklist, fn($item) => ($item['value'] ?? '') === 'yes'));
-        return ($yesCount / count($checklist)) * 100;
+        // UTF-8 BOM for Excel compatibility
+        fputs($out, "\xEF\xBB\xBF");
+
+        // Define columns
+        fputcsv($out, [
+            'ID', 'Département', 'Réf. Mission', 'Auteur', 'Date Entretien', 
+            'Durée', 'Responsable', 'Fonction', 'Bureau', 'Effectif', 'Date de soumission'
+        ], ';');
+
+        foreach ($submissions as $sub) {
+            fputcsv($out, [
+                $sub->id,
+                strtoupper($sub->department),
+                $sub->reference_mission,
+                $sub->auditeur,
+                $sub->date_entretien ? \Carbon\Carbon::parse($sub->date_entretien)->format('Y-m-d') : '',
+                $sub->duree,
+                $sub->responsable_interviewe,
+                $sub->fonction,
+                $sub->bureau,
+                $sub->effectif,
+                $sub->created_at->format('Y-m-d H:i:s')
+            ], ';');
+        }
+
+        rewind($out);
+        $csv = stream_get_contents($out);
+        fclose($out);
+
+        return response($csv, 200, [
+            'Content-Type' => 'text/csv; charset=UTF-8',
+            'Content-Disposition' => 'attachment; filename="audits_export.csv"',
+        ]);
     }
 }

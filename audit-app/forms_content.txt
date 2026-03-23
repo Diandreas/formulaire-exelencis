@@ -1,0 +1,2997 @@
+--- START: CEPI_Guide_Producteur_Audit.docx ---
+CAISSE D'ÉPARGNE ET DE PRÉVOYANCE / D'INVESTISSEMENT
+CEPI
+MISSION D'AUDIT DE LA GESTION COMPLÈTE DES ARCHIVES
+GUIDE D'ENTRETIEN — SERVICE PRODUCTEUR
+DÉPARTEMENT AUDIT INTERNE
+Auditeur(s) Interne(s), Chef de Mission Audit
+ℹ️  OBJET DU GUIDE : Ce formulaire est à compléter lors de l'entretien avec le responsable du DÉPARTEMENT AUDIT INTERNE. Il permet de recenser l'ensemble des documents produits et reçus par ce département, d'évaluer les pratiques d'archivage en vigueur, d'identifier les dysfonctionnements et de formuler des recommandations adaptées au secteur de la microfinance.
+FICHE D'IDENTIFICATION DE LA MISSION
+Référence mission :
+Version :
+V 1.0
+Département :
+DÉPARTEMENT AUDIT INTERNE
+Responsable interviewé :
+Fonction :
+Téléphone / Email :
+Bureau / Localisation :
+Effectif du service :
+Nombre d'agents formés archives :
+Date d'entretien :
+Durée (h) :
+Chef de Mission :
+Auditeur :
+Signatures :
+Chef de Mission : _______________________     Auditeur : _______________________     Interviewé(e) : _______________________
+I. POLITIQUE D'ARCHIVAGE ET MAÎTRISE DES PROCÉDURES
+Évaluer la connaissance et l'application des règles d'archivage par le département
+➤  Le DÉPARTEMENT AUDIT INTERNE a-t-il connaissance de la politique d'archivage institutionnelle du CEPI ? Une copie est-elle disponible dans le service ?
+➤  Maîtrisez-vous la procédure de transfert (versement) de vos documents aux archives centrales du CEPI ?
+Vérifier : connaissance du bordereau de versement, délais de transfert, interlocuteur archives, traçabilité.
+➤  Disposez-vous d'un plan de classement propre à votre département ? Est-il appliqué de manière homogène par tous les agents ?
+Demander à observer physiquement l'organisation des dossiers dans les armoires et sur les postes informatiques.
+➤  Des règles de nommage des fichiers numériques sont-elles en vigueur dans votre service ? Lesquelles ?
+Exemple de convention attendue : AAAAMMJJ_OBJET_VERSION_SERVICE.pdf
+➤  Avez-vous connaissance des durées légales de conservation (DUA) applicables aux documents produits par votre département ?
+Grille d'auto-évaluation — Maîtrise des procédures :
+Pratique évaluée
+Oui
+Non
+Observation / Commentaire
+Connaissance de la politique d'archivage du CEPI
+☐
+☐
+Utilisation d'un plan de classement documentaire
+☐
+☐
+Connaissance et application des durées légales de conservation
+☐
+☐
+Utilisation systématique du bordereau de versement
+☐
+☐
+Application des règles de nommage des fichiers numériques
+☐
+☐
+Présence d'un correspondant archives dans le département
+☐
+☐
+Sensibilisation du personnel à la confidentialité des documents
+☐
+☐
+Tri régulier et élimination des documents périmés
+☐
+☐
+II. RECENSEMENT DE LA PRODUCTION DOCUMENTAIRE
+Valider, compléter et annoter la liste des documents types produits et reçus par ce département. Indiquer les ajouts ou corrections.
+Planification & Programmation
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Plan d'audit annuel (PAA) approuvé par le Conseil
+Chrono
+10 ans
+Règl. COBAC EMF 2017 ; Normes IIA
+Conservation
+N
+[D]
+2
+Programme de travail de chaque mission d'audit
+Par mission
+10 ans
+Normes IIA ; Règl. COBAC
+Conservation
+N
+[D]
+3
+Charte d'audit interne approuvée par le CA
+Thématique
+MAJ permanente
+Normes IIA ; Règl. COBAC
+Conservation définitive
+P+N
+[D]
+4
+Univers d'audit (cartographie des entités auditables)
+Thématique
+5 ans (MAJ annuelle)
+Normes IIA
+Conservation
+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Exécution & Documentation de missions
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Dossier permanent de la mission (DP)
+Par mission + chrono
+10 ans
+Normes IIA ; Règl. COBAC
+Conservation
+N
+[D]
+2
+Dossier de travail courant (feuilles de travail, tests)
+Par mission
+10 ans
+Normes IIA
+Conservation
+N
+[D]
+3
+Rapport provisoire d'audit (avant contradiction)
+Chrono
+10 ans
+Normes IIA
+Conservation
+N
+[D]
+4
+Procès-verbal de réunion de restitution / contradiction
+Chrono
+10 ans
+Normes IIA
+Conservation
+P+N
+[D]
+5
+Rapport définitif d'audit interne validé
+Chrono
+30 ans
+Normes IIA ; Règl. COBAC
+Conservation définitive
+P+N
+[D]
+6
+Réponses de l'audité et plan d'action correctif
+Rattaché au rapport
+10 ans
+Normes IIA ; Règl. COBAC
+Conservation
+P+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Suivi des recommandations
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Tableau de suivi des recommandations (TSR)
+Chrono / Par mission
+10 ans
+Normes IIA ; Règl. COBAC
+Conservation
+N
+[D]
+2
+Rapports de suivi de mise en œuvre (semestriel)
+Chrono
+10 ans
+Normes IIA
+Conservation
+N
+[D]
+3
+Synthèse annuelle des recommandations (au CA)
+Chrono
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Reporting & Communication
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Rapport annuel de l'audit interne (au CA / Comité d'audit)
+Chrono
+30 ans
+Normes IIA ; Règl. COBAC
+Conservation définitive
+P+N
+[D]
+2
+Rapports d'audit externe (CAC, inspecteurs COBAC)
+Chrono
+30 ans
+OHADA ; Règl. COBAC
+Conservation définitive
+P+N
+[D]
+3
+Procès-verbaux du Comité d'audit (si existant)
+Chrono
+30 ans
+Règl. COBAC ; Statuts CEPI
+Conservation définitive
+P+N
+[D]
+4
+Correspondances avec les auditeurs externes et la COBAC
+Chrono
+30 ans
+Règl. COBAC
+Conservation définitive
+P+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+III. QUESTIONS SPÉCIFIQUES — DÉPARTEMENT AUDIT INTERNE
+Questions ciblées sur les enjeux documentaires propres à ce département
+➤  Les dossiers de travail de chaque mission d'audit sont-ils complets, numérotés et contiennent-ils toutes les preuves d'audit (feuilles de travail, tests, documents collectés) ?
+➤  Les rapports provisoires, les procès-verbaux de contradiction et les rapports définitifs sont-ils archivés ensemble dans un dossier unique par mission ?
+➤  Le tableau de suivi des recommandations (TSR) est-il mis à jour après chaque mission et archivé à chaque révision ? Les preuves de clôture des recommandations sont-elles conservées ?
+➤  L'indépendance de la fonction d'audit est-elle garantie par l'organisation de l'archivage (accès restreint aux dossiers d'audit, conservation sécurisée) ?
+➤  Les rapports d'audit interne sont-ils transmis au Conseil d'Administration avec accusé de réception ? Ces accusés sont-ils archivés avec les rapports ?
+➤  Les rapports des inspecteurs COBAC et les réponses de la direction sont-ils archivés ensemble et conservés pendant au moins 30 ans ?
+Ces documents ont une valeur juridique et probante majeure en cas de litige ou de mise en cause de la responsabilité des dirigeants.
+IV. VERSEMENT ET CIRCUIT DOCUMENTAIRE
+Analyser le flux de versement des documents aux archives centrales du CEPI
+➤  Tous les documents produits par votre département font-ils l'objet d'un versement aux archives centrales ? Lesquels ne sont jamais versés et pourquoi ?
+➤  Qui est responsable du versement au sein de votre département ? Un correspondant archives est-il désigné ?
+➤  À quelle fréquence les versements sont-ils effectués (mensuelle, trimestrielle, annuelle) ?
+➤  Un bordereau de versement est-il systématiquement utilisé ? Ce bordereau est-il signé et conservé par les deux parties ?
+➤  Comment les archives numériques de votre département sont-elles transférées (dossier réseau partagé, GED, clé USB, email) ?
+Tableau de suivi des versements :
+Série/Type de document
+Fréquence versement
+Dernier versement (date)
+Bordereau utilisé
+Support
+Observation
+V. ÉTAT DES FONDS CONSERVÉS DANS LE DÉPARTEMENT
+Inventorier les archives physiques et numériques actuellement conservées dans les bureaux du département
+Instructions : compléter une ligne par dossier, série ou unité documentaire identifiée lors de la visite terrain.
+N°
+Intitulé / Objet / Série de documents
+Dates extrêmes
+Producteur
+Volume (ML/cm/nb)
+Support
+Localisation
+Observation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+VI. PROBLÈMES IDENTIFIÉS ET DYSFONCTIONNEMENTS
+N°
+Description du problème / dysfonctionnement
+Solution existante
+Recommandation souhaitée
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+VII. ÉQUIPEMENTS ET MATÉRIEL D'ARCHIVAGE DU DÉPARTEMENT
+7.1 — Matériel physique de conservation (existant) :
+N°
+Désignation
+Quantité
+État
+Adéquation
+Observation
+1
+Boîtes d'archives (carton neutre)
+2
+Armoires de rangement (métal/bois)
+3
+Chemises à sangle / kraft
+4
+Classeurs / Chronos / Registres
+5
+Coffre-fort ou armoire sécurisée
+6
+Étiquettes et matériel de cotation
+7.2 — Équipements informatiques utilisés pour l'archivage :
+N°
+Désignation et caractéristiques
+Usage dans la gestion documentaire
+État
+Observation
+1
+Ordinateur / Poste de travail
+2
+Scanner (format, vitesse)
+3
+Accès Internet / Intranet
+4
+Logiciel métier / applicatif
+5
+Stockage réseau (dossier partagé / NAS)
+6
+Disque dur externe / clé USB
+7.3 — Besoins en matériel et équipements :
+N°
+Désignation souhaitée
+Quantité
+Justification du besoin
+1
+2
+3
+4
+5
+6
+VIII. BESOINS EN FORMATION ET DÉVELOPPEMENT DES COMPÉTENCES
+➤  Le personnel de votre département a-t-il reçu des formations en archivistique ou gestion documentaire ? Si oui, lesquelles et quand ?
+➤  Quels sont les besoins prioritaires en formation identifiés pour améliorer la gestion des archives dans votre département ?
+N°
+Compétence / Thème de formation souhaité
+Justification
+Public
+Priorité
+1
+2
+3
+4
+5
+6
+7
+IX. DOCUMENTS À RECUEILLIR LORS DE LA MISSION
+Documents probants à demander et collecter auprès du responsable du département
+N°
+Document à recueillir
+Disponible
+Observation / Date
+1
+Organigramme du département avec noms et fonctions
+☐ Oui  ☐ Non
+2
+Plan de classement des documents du service (si existant)
+☐ Oui  ☐ Non
+3
+Exemple de bordereau de versement aux archives centrales
+☐ Oui  ☐ Non
+4
+Registre de prêt ou de communication des documents
+☐ Oui  ☐ Non
+5
+Extrait d'inventaire ou d'état des fonds
+☐ Oui  ☐ Non
+6
+Manuel de procédures / guide de travail du département
+☐ Oui  ☐ Non
+7
+Rapport d'activité récent du département
+☐ Oui  ☐ Non
+8
+Exemple de : Plan d'audit annuel (PAA) approuvé par le Conseil
+☐ Oui  ☐ Non
+9
+Exemple de : Programme de travail de chaque mission d'audit
+☐ Oui  ☐ Non
+10
+Exemple de : Dossier permanent de la mission (DP)
+☐ Oui  ☐ Non
+11
+Exemple de : Dossier de travail courant (feuilles de travail, tests)
+☐ Oui  ☐ Non
+12
+Liste des dossiers actifs en cours de traitement
+☐ Oui  ☐ Non
+13
+Tableau de bord ou indicateurs de suivi du département
+☐ Oui  ☐ Non
+X. SYNTHÈSE DE L'ENTRETIEN ET SIGNATURES
+✅  Points forts :
+⚠️  Dysfonctionnements et risques documentaires identifiés :
+💡  Recommandations préliminaires :
+📝  Observations libres du responsable interviewé :
+Chef de Mission
+_______________________
+Auditeur
+_______________________
+Responsable interviewé(e)
+_______________________
+--- END: CEPI_Guide_Producteur_Audit.docx ---
+
+--- START: CEPI_Guide_Producteur_Conformite.docx ---
+CAISSE D'ÉPARGNE ET DE PRÉVOYANCE / D'INVESTISSEMENT
+CEPI
+MISSION D'AUDIT DE LA GESTION COMPLÈTE DES ARCHIVES
+GUIDE D'ENTRETIEN — SERVICE PRODUCTEUR
+DÉPARTEMENT CONFORMITÉ & CONTRÔLE INTERNE
+Responsable Conformité, Contrôleur Interne, Responsable LBC/FT
+ℹ️  OBJET DU GUIDE : Ce formulaire est à compléter lors de l'entretien avec le responsable du DÉPARTEMENT CONFORMITÉ & CONTRÔLE INTERNE. Il permet de recenser l'ensemble des documents produits et reçus par ce département, d'évaluer les pratiques d'archivage en vigueur, d'identifier les dysfonctionnements et de formuler des recommandations adaptées au secteur de la microfinance.
+FICHE D'IDENTIFICATION DE LA MISSION
+Référence mission :
+Version :
+V 1.0
+Département :
+DÉPARTEMENT CONFORMITÉ & CONTRÔLE INTERNE
+Responsable interviewé :
+Fonction :
+Téléphone / Email :
+Bureau / Localisation :
+Effectif du service :
+Nombre d'agents formés archives :
+Date d'entretien :
+Durée (h) :
+Chef de Mission :
+Auditeur :
+Signatures :
+Chef de Mission : _______________________     Auditeur : _______________________     Interviewé(e) : _______________________
+I. POLITIQUE D'ARCHIVAGE ET MAÎTRISE DES PROCÉDURES
+Évaluer la connaissance et l'application des règles d'archivage par le département
+➤  Le DÉPARTEMENT CONFORMITÉ & CONTRÔLE INTERNE a-t-il connaissance de la politique d'archivage institutionnelle du CEPI ? Une copie est-elle disponible dans le service ?
+➤  Maîtrisez-vous la procédure de transfert (versement) de vos documents aux archives centrales du CEPI ?
+Vérifier : connaissance du bordereau de versement, délais de transfert, interlocuteur archives, traçabilité.
+➤  Disposez-vous d'un plan de classement propre à votre département ? Est-il appliqué de manière homogène par tous les agents ?
+Demander à observer physiquement l'organisation des dossiers dans les armoires et sur les postes informatiques.
+➤  Des règles de nommage des fichiers numériques sont-elles en vigueur dans votre service ? Lesquelles ?
+Exemple de convention attendue : AAAAMMJJ_OBJET_VERSION_SERVICE.pdf
+➤  Avez-vous connaissance des durées légales de conservation (DUA) applicables aux documents produits par votre département ?
+Grille d'auto-évaluation — Maîtrise des procédures :
+Pratique évaluée
+Oui
+Non
+Observation / Commentaire
+Connaissance de la politique d'archivage du CEPI
+☐
+☐
+Utilisation d'un plan de classement documentaire
+☐
+☐
+Connaissance et application des durées légales de conservation
+☐
+☐
+Utilisation systématique du bordereau de versement
+☐
+☐
+Application des règles de nommage des fichiers numériques
+☐
+☐
+Présence d'un correspondant archives dans le département
+☐
+☐
+Sensibilisation du personnel à la confidentialité des documents
+☐
+☐
+Tri régulier et élimination des documents périmés
+☐
+☐
+II. RECENSEMENT DE LA PRODUCTION DOCUMENTAIRE
+Valider, compléter et annoter la liste des documents types produits et reçus par ce département. Indiquer les ajouts ou corrections.
+Conformité réglementaire & LBC/FT
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Dossiers KYC complets des membres/clients (connaissance client)
+Alphab. / Num.
+10 ans après sortie
+Loi CENTIF N°2016/007 ; Règl. COBAC LBC/FT
+Conservation définitive
+P+N
+[D]
+2
+Déclarations de soupçon (DS) transmises à la CENTIF
+Chrono
+10 ans
+Loi CENTIF N°2016/007
+Conservation définitive (confidentiel)
+P+N
+[D]
+3
+Rapports de conformité réglementaire (mensuel/trimestriel)
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[D]
+4
+Correspondances avec la COBAC (inspections, injonctions)
+Chrono
+30 ans
+Règl. COBAC
+Conservation définitive
+P+N
+[D]
+5
+Rapports d'inspection de la COBAC
+Chrono
+30 ans
+Règl. COBAC
+Conservation définitive
+P+N
+[D]
+6
+Plans de mise en conformité et suivi des recommandations COBAC
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[D]
+7
+Registre des transactions suspectes ou atypiques
+Chrono
+10 ans
+Loi CENTIF
+Conservation définitive
+P+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Contrôle interne
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Programme annuel de contrôle interne (PACI)
+Chrono
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+N
+[D]
+2
+Rapports de contrôle interne permanents
+Chrono
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+N
+[D]
+3
+Rapports de contrôle périodique (contrôles sur place)
+Chrono
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+N
+[D]
+4
+Feuilles de travail et dossiers de contrôle
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[D]
+5
+Tableaux de bord des indicateurs de risque (KRI)
+Chrono
+10 ans
+Règl. COBAC ; Bâle II/III adapté
+Conservation
+N
+[D]
+6
+Fiches d'écart et plans d'action correctifs
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Gestion des risques
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Cartographie des risques opérationnels et financiers
+Thématique
+5 ans (MAJ annuelle)
+Règl. COBAC ; Bâle adapté
+Conservation
+N
+[D]
+2
+Rapports de gestion des incidents opérationnels
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[D]
+3
+Politique de gestion des risques (document cadre)
+Thématique
+MAJ permanente
+Règl. COBAC EMF 2017
+Conservation
+N
+[D]
+4
+Rapports de stress test / simulation de crises
+Chrono
+5 ans
+Règl. COBAC
+Conservation
+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Procédures & Politiques internes
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Manuel de procédures opérationnelles (MPO)
+Thématique
+MAJ permanente
+Règl. COBAC ; Politique interne
+Conservation définitive
+P+N
+[C]
+2
+Code de conduite et d'éthique du personnel
+Thématique
+MAJ permanente
+Code Travail Cameroun
+Conservation définitive
+P+N
+[A]
+3
+Politique LBC/FT validée par le CA
+Thématique
+MAJ permanente
+Loi CENTIF
+Conservation définitive
+P+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+III. QUESTIONS SPÉCIFIQUES — DÉPARTEMENT CONFORMITÉ & CONTRÔLE INTERNE
+Questions ciblées sur les enjeux documentaires propres à ce département
+➤  Les dossiers KYC sont-ils complets pour 100% des membres actifs ? Quel est le taux de complétude des dossiers KYC des membres anciens ?
+Vérifier : pièce d'identité valide, justificatif de domicile, fiche de renseignements, déclaration de source de fonds.
+➤  Les déclarations de soupçon (DS) transmises à la CENTIF sont-elles classifiées confidentielles, conservées séparément et accessibles uniquement aux personnes habilitées ?
+➤  Le plan de mise en conformité suite aux inspections COBAC est-il documenté, daté, suivi et les preuves de mise en œuvre archivées ?
+➤  La cartographie des risques est-elle revue annuellement ? Les versions successives sont-elles toutes archivées pour traçabilité de l'évolution des risques ?
+➤  Les fiches d'écart et leurs plans d'action correctifs sont-ils archivés avec les preuves de clôture des actions ?
+➤  Le manuel de procédures opérationnelles est-il versionné, signé par la Direction et toutes les versions précédentes archivées ?
+IV. VERSEMENT ET CIRCUIT DOCUMENTAIRE
+Analyser le flux de versement des documents aux archives centrales du CEPI
+➤  Tous les documents produits par votre département font-ils l'objet d'un versement aux archives centrales ? Lesquels ne sont jamais versés et pourquoi ?
+➤  Qui est responsable du versement au sein de votre département ? Un correspondant archives est-il désigné ?
+➤  À quelle fréquence les versements sont-ils effectués (mensuelle, trimestrielle, annuelle) ?
+➤  Un bordereau de versement est-il systématiquement utilisé ? Ce bordereau est-il signé et conservé par les deux parties ?
+➤  Comment les archives numériques de votre département sont-elles transférées (dossier réseau partagé, GED, clé USB, email) ?
+Tableau de suivi des versements :
+Série/Type de document
+Fréquence versement
+Dernier versement (date)
+Bordereau utilisé
+Support
+Observation
+V. ÉTAT DES FONDS CONSERVÉS DANS LE DÉPARTEMENT
+Inventorier les archives physiques et numériques actuellement conservées dans les bureaux du département
+Instructions : compléter une ligne par dossier, série ou unité documentaire identifiée lors de la visite terrain.
+N°
+Intitulé / Objet / Série de documents
+Dates extrêmes
+Producteur
+Volume (ML/cm/nb)
+Support
+Localisation
+Observation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+VI. PROBLÈMES IDENTIFIÉS ET DYSFONCTIONNEMENTS
+N°
+Description du problème / dysfonctionnement
+Solution existante
+Recommandation souhaitée
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+VII. ÉQUIPEMENTS ET MATÉRIEL D'ARCHIVAGE DU DÉPARTEMENT
+7.1 — Matériel physique de conservation (existant) :
+N°
+Désignation
+Quantité
+État
+Adéquation
+Observation
+1
+Boîtes d'archives (carton neutre)
+2
+Armoires de rangement (métal/bois)
+3
+Chemises à sangle / kraft
+4
+Classeurs / Chronos / Registres
+5
+Coffre-fort ou armoire sécurisée
+6
+Étiquettes et matériel de cotation
+7.2 — Équipements informatiques utilisés pour l'archivage :
+N°
+Désignation et caractéristiques
+Usage dans la gestion documentaire
+État
+Observation
+1
+Ordinateur / Poste de travail
+2
+Scanner (format, vitesse)
+3
+Accès Internet / Intranet
+4
+Logiciel métier / applicatif
+5
+Stockage réseau (dossier partagé / NAS)
+6
+Disque dur externe / clé USB
+7.3 — Besoins en matériel et équipements :
+N°
+Désignation souhaitée
+Quantité
+Justification du besoin
+1
+2
+3
+4
+5
+6
+VIII. BESOINS EN FORMATION ET DÉVELOPPEMENT DES COMPÉTENCES
+➤  Le personnel de votre département a-t-il reçu des formations en archivistique ou gestion documentaire ? Si oui, lesquelles et quand ?
+➤  Quels sont les besoins prioritaires en formation identifiés pour améliorer la gestion des archives dans votre département ?
+N°
+Compétence / Thème de formation souhaité
+Justification
+Public
+Priorité
+1
+2
+3
+4
+5
+6
+7
+IX. DOCUMENTS À RECUEILLIR LORS DE LA MISSION
+Documents probants à demander et collecter auprès du responsable du département
+N°
+Document à recueillir
+Disponible
+Observation / Date
+1
+Organigramme du département avec noms et fonctions
+☐ Oui  ☐ Non
+2
+Plan de classement des documents du service (si existant)
+☐ Oui  ☐ Non
+3
+Exemple de bordereau de versement aux archives centrales
+☐ Oui  ☐ Non
+4
+Registre de prêt ou de communication des documents
+☐ Oui  ☐ Non
+5
+Extrait d'inventaire ou d'état des fonds
+☐ Oui  ☐ Non
+6
+Manuel de procédures / guide de travail du département
+☐ Oui  ☐ Non
+7
+Rapport d'activité récent du département
+☐ Oui  ☐ Non
+8
+Exemple de : Dossiers KYC complets des membres/clients (connaissance client)
+☐ Oui  ☐ Non
+9
+Exemple de : Déclarations de soupçon (DS) transmises à la CENTIF
+☐ Oui  ☐ Non
+10
+Exemple de : Programme annuel de contrôle interne (PACI)
+☐ Oui  ☐ Non
+11
+Exemple de : Rapports de contrôle interne permanents
+☐ Oui  ☐ Non
+12
+Liste des dossiers actifs en cours de traitement
+☐ Oui  ☐ Non
+13
+Tableau de bord ou indicateurs de suivi du département
+☐ Oui  ☐ Non
+X. SYNTHÈSE DE L'ENTRETIEN ET SIGNATURES
+✅  Points forts :
+⚠️  Dysfonctionnements et risques documentaires identifiés :
+💡  Recommandations préliminaires :
+📝  Observations libres du responsable interviewé :
+Chef de Mission
+_______________________
+Auditeur
+_______________________
+Responsable interviewé(e)
+_______________________
+--- END: CEPI_Guide_Producteur_Conformite.docx ---
+
+--- START: CEPI_Guide_Producteur_Credit.docx ---
+CAISSE D'ÉPARGNE ET DE PRÉVOYANCE / D'INVESTISSEMENT
+CEPI
+MISSION D'AUDIT DE LA GESTION COMPLÈTE DES ARCHIVES
+GUIDE D'ENTRETIEN — SERVICE PRODUCTEUR
+DÉPARTEMENT CRÉDIT
+Chargé(s) de Crédit, Analyste(s), Responsable Engagements
+ℹ️  OBJET DU GUIDE : Ce formulaire est à compléter lors de l'entretien avec le responsable du DÉPARTEMENT CRÉDIT. Il permet de recenser l'ensemble des documents produits et reçus par ce département, d'évaluer les pratiques d'archivage en vigueur, d'identifier les dysfonctionnements et de formuler des recommandations adaptées au secteur de la microfinance.
+FICHE D'IDENTIFICATION DE LA MISSION
+Référence mission :
+Version :
+V 1.0
+Département :
+DÉPARTEMENT CRÉDIT
+Responsable interviewé :
+Fonction :
+Téléphone / Email :
+Bureau / Localisation :
+Effectif du service :
+Nombre d'agents formés archives :
+Date d'entretien :
+Durée (h) :
+Chef de Mission :
+Auditeur :
+Signatures :
+Chef de Mission : _______________________     Auditeur : _______________________     Interviewé(e) : _______________________
+I. POLITIQUE D'ARCHIVAGE ET MAÎTRISE DES PROCÉDURES
+Évaluer la connaissance et l'application des règles d'archivage par le département
+➤  Le DÉPARTEMENT CRÉDIT a-t-il connaissance de la politique d'archivage institutionnelle du CEPI ? Une copie est-elle disponible dans le service ?
+➤  Maîtrisez-vous la procédure de transfert (versement) de vos documents aux archives centrales du CEPI ?
+Vérifier : connaissance du bordereau de versement, délais de transfert, interlocuteur archives, traçabilité.
+➤  Disposez-vous d'un plan de classement propre à votre département ? Est-il appliqué de manière homogène par tous les agents ?
+Demander à observer physiquement l'organisation des dossiers dans les armoires et sur les postes informatiques.
+➤  Des règles de nommage des fichiers numériques sont-elles en vigueur dans votre service ? Lesquelles ?
+Exemple de convention attendue : AAAAMMJJ_OBJET_VERSION_SERVICE.pdf
+➤  Avez-vous connaissance des durées légales de conservation (DUA) applicables aux documents produits par votre département ?
+Grille d'auto-évaluation — Maîtrise des procédures :
+Pratique évaluée
+Oui
+Non
+Observation / Commentaire
+Connaissance de la politique d'archivage du CEPI
+☐
+☐
+Utilisation d'un plan de classement documentaire
+☐
+☐
+Connaissance et application des durées légales de conservation
+☐
+☐
+Utilisation systématique du bordereau de versement
+☐
+☐
+Application des règles de nommage des fichiers numériques
+☐
+☐
+Présence d'un correspondant archives dans le département
+☐
+☐
+Sensibilisation du personnel à la confidentialité des documents
+☐
+☐
+Tri régulier et élimination des documents périmés
+☐
+☐
+II. RECENSEMENT DE LA PRODUCTION DOCUMENTAIRE
+Valider, compléter et annoter la liste des documents types produits et reçus par ce département. Indiquer les ajouts ou corrections.
+Instruction & Analyse
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Dossier de demande de crédit (fiche de renseignements)
+Chronologique
+10 ans
+Loi N°2016/007 CPC ; Règl. COBAC EMF 2017
+Conservation
+P+N
+[C]
+2
+Rapport d'analyse financière du demandeur
+Chronologique
+10 ans
+Règl. COBAC EMF 2017/01
+Conservation
+P+N
+[C]
+3
+Fiche de scoring / notation du risque
+Chronologique
+10 ans
+Règl. COBAC ; Politique crédit interne
+Conservation
+N
+[C]
+4
+Procès-verbal du Comité de Crédit
+Chronologique
+30 ans
+Règl. COBAC EMF 2017 ; OHADA
+Conservation définitive
+P+N
+[C]
+5
+Lettre de notification de décision (accord/rejet)
+Chrono par client
+10 ans
+Code Civil Cameroun
+Conservation
+P+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Mise en Place & Documentation juridique
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Contrat de prêt signé (toutes clauses)
+Alphab. + Num.
+10 ans après solde
+OHADA – Acte Uniforme crédit ; Code Civil
+Conservation définitive
+P+N
+[C]
+2
+Avenant / modification de contrat de prêt
+Rattaché au dossier
+10 ans après solde
+OHADA
+Conservation
+P+N
+[C]
+3
+Titre de garantie hypothécaire (original)
+Num. par dossier
+Durée vie + 10 ans
+OHADA – Acte Uniforme sûretés
+Conservation définitive
+P
+[D]
+4
+Contrat de nantissement / gage
+Num. par dossier
+10 ans après main-levée
+OHADA – Acte Uniforme sûretés
+Conservation
+P+N
+[D]
+5
+Caution solidaire (acte notarié ou sous seing privé)
+Num. par dossier
+10 ans après solde
+OHADA
+Conservation
+P
+[D]
+6
+Assurance vie / assurance emprunteur
+Num. par dossier
+Durée du prêt + 5 ans
+Code des Assurances CIMA
+Conservation
+P+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Suivi & Recouvrement
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Tableau d'amortissement du prêt
+Num. par dossier
+10 ans après solde
+Règl. COBAC
+Conservation
+P+N
+[C]
+2
+Fiche de suivi du remboursement (historique)
+Chrono
+10 ans
+Règl. COBAC EMF
+Conservation
+N
+[C]
+3
+Rapport mensuel du portefeuille de crédit
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[C]
+4
+Rapport NPL / créances en souffrance (PAR30/PAR90)
+Chrono
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+N
+[C]
+5
+Mise en demeure / lettre de relance (1ère, 2ème, 3ème)
+Chrono par dossier
+10 ans
+Code Civil Cameroun
+Conservation
+P+N
+[C]
+6
+Dossier de contentieux et de recouvrement judiciaire
+Num. + Alphab.
+30 ans
+OHADA ; Code Procédure Civile
+Conservation définitive
+P+N
+[D]
+7
+Acte de saisie / jugement / mainlevée
+Chrono
+30 ans
+OHADA ; CPC Cameroun
+Conservation définitive
+P
+[D]
+8
+Rapport de provisionnement des créances douteuses
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Reporting & Contrôle
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Rapport mensuel d'activité crédit (indicateurs clés)
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[C]
+2
+État des encours de crédit par produit
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[C]
+3
+Rapports de visite terrain / monitoring client
+Chrono
+5 ans
+Politique crédit interne
+Élimination
+P+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+III. QUESTIONS SPÉCIFIQUES — DÉPARTEMENT CRÉDIT
+Questions ciblées sur les enjeux documentaires propres à ce département
+➤  Les dossiers de crédit sont-ils complets et contiennent-ils systématiquement tous les documents requis par la politique crédit du CEPI et la réglementation COBAC ?
+Vérifier : fiche client, analyse financière, garanties, PV comité de crédit, contrat signé, tableau d'amortissement.
+➤  Les documents de garantie (titres fonciers, actes de nantissement) sont-ils conservés dans un coffre sécurisé avec accès restreint ?
+➤  Comment les dossiers de crédit en contentieux sont-ils archivés et suivis ? Existe-t-il un registre distinct des dossiers contentieux ?
+➤  Les PV des comités de crédit sont-ils systématiquement signés, numérotés et archivés dans les délais réglementaires ?
+➤  Les rapports NPL (PAR30/PAR90) sont-ils produits et archivés mensuellement conformément aux exigences COBAC ?
+Vérifier la cohérence entre les rapports archivés et les données du core banking system.
+➤  Comment les documents de prêts soldés sont-ils traités ? Sont-ils basculés vers les archives intermédiaires ou définitives selon un calendrier défini ?
+IV. VERSEMENT ET CIRCUIT DOCUMENTAIRE
+Analyser le flux de versement des documents aux archives centrales du CEPI
+➤  Tous les documents produits par votre département font-ils l'objet d'un versement aux archives centrales ? Lesquels ne sont jamais versés et pourquoi ?
+➤  Qui est responsable du versement au sein de votre département ? Un correspondant archives est-il désigné ?
+➤  À quelle fréquence les versements sont-ils effectués (mensuelle, trimestrielle, annuelle) ?
+➤  Un bordereau de versement est-il systématiquement utilisé ? Ce bordereau est-il signé et conservé par les deux parties ?
+➤  Comment les archives numériques de votre département sont-elles transférées (dossier réseau partagé, GED, clé USB, email) ?
+Tableau de suivi des versements :
+Série/Type de document
+Fréquence versement
+Dernier versement (date)
+Bordereau utilisé
+Support
+Observation
+V. ÉTAT DES FONDS CONSERVÉS DANS LE DÉPARTEMENT
+Inventorier les archives physiques et numériques actuellement conservées dans les bureaux du département
+Instructions : compléter une ligne par dossier, série ou unité documentaire identifiée lors de la visite terrain.
+N°
+Intitulé / Objet / Série de documents
+Dates extrêmes
+Producteur
+Volume (ML/cm/nb)
+Support
+Localisation
+Observation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+VI. PROBLÈMES IDENTIFIÉS ET DYSFONCTIONNEMENTS
+N°
+Description du problème / dysfonctionnement
+Solution existante
+Recommandation souhaitée
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+VII. ÉQUIPEMENTS ET MATÉRIEL D'ARCHIVAGE DU DÉPARTEMENT
+7.1 — Matériel physique de conservation (existant) :
+N°
+Désignation
+Quantité
+État
+Adéquation
+Observation
+1
+Boîtes d'archives (carton neutre)
+2
+Armoires de rangement (métal/bois)
+3
+Chemises à sangle / kraft
+4
+Classeurs / Chronos / Registres
+5
+Coffre-fort ou armoire sécurisée
+6
+Étiquettes et matériel de cotation
+7.2 — Équipements informatiques utilisés pour l'archivage :
+N°
+Désignation et caractéristiques
+Usage dans la gestion documentaire
+État
+Observation
+1
+Ordinateur / Poste de travail
+2
+Scanner (format, vitesse)
+3
+Accès Internet / Intranet
+4
+Logiciel métier / applicatif
+5
+Stockage réseau (dossier partagé / NAS)
+6
+Disque dur externe / clé USB
+7.3 — Besoins en matériel et équipements :
+N°
+Désignation souhaitée
+Quantité
+Justification du besoin
+1
+2
+3
+4
+5
+6
+VIII. BESOINS EN FORMATION ET DÉVELOPPEMENT DES COMPÉTENCES
+➤  Le personnel de votre département a-t-il reçu des formations en archivistique ou gestion documentaire ? Si oui, lesquelles et quand ?
+➤  Quels sont les besoins prioritaires en formation identifiés pour améliorer la gestion des archives dans votre département ?
+N°
+Compétence / Thème de formation souhaité
+Justification
+Public
+Priorité
+1
+2
+3
+4
+5
+6
+7
+IX. DOCUMENTS À RECUEILLIR LORS DE LA MISSION
+Documents probants à demander et collecter auprès du responsable du département
+N°
+Document à recueillir
+Disponible
+Observation / Date
+1
+Organigramme du département avec noms et fonctions
+☐ Oui  ☐ Non
+2
+Plan de classement des documents du service (si existant)
+☐ Oui  ☐ Non
+3
+Exemple de bordereau de versement aux archives centrales
+☐ Oui  ☐ Non
+4
+Registre de prêt ou de communication des documents
+☐ Oui  ☐ Non
+5
+Extrait d'inventaire ou d'état des fonds
+☐ Oui  ☐ Non
+6
+Manuel de procédures / guide de travail du département
+☐ Oui  ☐ Non
+7
+Rapport d'activité récent du département
+☐ Oui  ☐ Non
+8
+Exemple de : Dossier de demande de crédit (fiche de renseignements)
+☐ Oui  ☐ Non
+9
+Exemple de : Rapport d'analyse financière du demandeur
+☐ Oui  ☐ Non
+10
+Exemple de : Contrat de prêt signé (toutes clauses)
+☐ Oui  ☐ Non
+11
+Exemple de : Avenant / modification de contrat de prêt
+☐ Oui  ☐ Non
+12
+Liste des dossiers actifs en cours de traitement
+☐ Oui  ☐ Non
+13
+Tableau de bord ou indicateurs de suivi du département
+☐ Oui  ☐ Non
+X. SYNTHÈSE DE L'ENTRETIEN ET SIGNATURES
+✅  Points forts :
+⚠️  Dysfonctionnements et risques documentaires identifiés :
+💡  Recommandations préliminaires :
+📝  Observations libres du responsable interviewé :
+Chef de Mission
+_______________________
+Auditeur
+_______________________
+Responsable interviewé(e)
+_______________________
+--- END: CEPI_Guide_Producteur_Credit.docx ---
+
+--- START: CEPI_Guide_Producteur_DAF.docx ---
+CAISSE D'ÉPARGNE ET DE PRÉVOYANCE / D'INVESTISSEMENT
+CEPI
+MISSION D'AUDIT DE LA GESTION COMPLÈTE DES ARCHIVES
+GUIDE D'ENTRETIEN — SERVICE PRODUCTEUR
+DIRECTION ADMINISTRATIVE ET FINANCIÈRE (DAF)
+Directeur Financier, Comptable Principal, Trésorier
+ℹ️  OBJET DU GUIDE : Ce formulaire est à compléter lors de l'entretien avec le responsable du DIRECTION ADMINISTRATIVE ET FINANCIÈRE (DAF). Il permet de recenser l'ensemble des documents produits et reçus par ce département, d'évaluer les pratiques d'archivage en vigueur, d'identifier les dysfonctionnements et de formuler des recommandations adaptées au secteur de la microfinance.
+FICHE D'IDENTIFICATION DE LA MISSION
+Référence mission :
+Version :
+V 1.0
+Département :
+DIRECTION ADMINISTRATIVE ET FINANCIÈRE (DAF)
+Responsable interviewé :
+Fonction :
+Téléphone / Email :
+Bureau / Localisation :
+Effectif du service :
+Nombre d'agents formés archives :
+Date d'entretien :
+Durée (h) :
+Chef de Mission :
+Auditeur :
+Signatures :
+Chef de Mission : _______________________     Auditeur : _______________________     Interviewé(e) : _______________________
+I. POLITIQUE D'ARCHIVAGE ET MAÎTRISE DES PROCÉDURES
+Évaluer la connaissance et l'application des règles d'archivage par le département
+➤  Le DIRECTION ADMINISTRATIVE ET FINANCIÈRE (DAF) a-t-il connaissance de la politique d'archivage institutionnelle du CEPI ? Une copie est-elle disponible dans le service ?
+➤  Maîtrisez-vous la procédure de transfert (versement) de vos documents aux archives centrales du CEPI ?
+Vérifier : connaissance du bordereau de versement, délais de transfert, interlocuteur archives, traçabilité.
+➤  Disposez-vous d'un plan de classement propre à votre département ? Est-il appliqué de manière homogène par tous les agents ?
+Demander à observer physiquement l'organisation des dossiers dans les armoires et sur les postes informatiques.
+➤  Des règles de nommage des fichiers numériques sont-elles en vigueur dans votre service ? Lesquelles ?
+Exemple de convention attendue : AAAAMMJJ_OBJET_VERSION_SERVICE.pdf
+➤  Avez-vous connaissance des durées légales de conservation (DUA) applicables aux documents produits par votre département ?
+Grille d'auto-évaluation — Maîtrise des procédures :
+Pratique évaluée
+Oui
+Non
+Observation / Commentaire
+Connaissance de la politique d'archivage du CEPI
+☐
+☐
+Utilisation d'un plan de classement documentaire
+☐
+☐
+Connaissance et application des durées légales de conservation
+☐
+☐
+Utilisation systématique du bordereau de versement
+☐
+☐
+Application des règles de nommage des fichiers numériques
+☐
+☐
+Présence d'un correspondant archives dans le département
+☐
+☐
+Sensibilisation du personnel à la confidentialité des documents
+☐
+☐
+Tri régulier et élimination des documents périmés
+☐
+☐
+II. RECENSEMENT DE LA PRODUCTION DOCUMENTAIRE
+Valider, compléter et annoter la liste des documents types produits et reçus par ce département. Indiquer les ajouts ou corrections.
+Comptabilité générale
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Grand livre comptable
+Chrono / par compte
+10 ans
+Acte Uniforme OHADA Comptabilité ; CGI Cameroun
+Conservation définitive
+P+N
+[C]
+2
+Journal comptable général (journalier)
+Chrono
+10 ans
+OHADA ; Loi fiscale
+Conservation
+P+N
+[C]
+3
+Balance générale mensuelle
+Chrono
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+N
+[C]
+4
+États financiers annuels (bilan, compte de résultat, annexes)
+Chrono
+30 ans
+OHADA ; Règl. COBAC ; Loi fiscale
+Conservation définitive
+P+N
+[D]
+5
+Rapport du Commissaire aux Comptes (CAC)
+Chrono
+30 ans
+OHADA – Acte Uniforme Sociétés
+Conservation définitive
+P+N
+[D]
+6
+Pièces comptables justificatives (factures, reçus, BS)
+Chrono
+10 ans
+CGI Cameroun ; Règl. COBAC
+Conservation
+P+N
+[C]
+7
+Fichier des immobilisations (amortissements)
+Par catégorie
+10 ans
+OHADA
+Conservation
+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Trésorerie & Budget
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Plan de trésorerie prévisionnel (mensuel/annuel)
+Chrono
+10 ans
+Règl. COBAC ; Loi finances
+Conservation
+N
+[C]
+2
+Rapport de trésorerie quotidien
+Chrono
+10 ans
+Politique interne CEPI
+Conservation
+N
+[C]
+3
+Rapports de rapprochement bancaire
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[C]
+4
+Budget annuel et révisions budgétaires
+Chrono
+10 ans
+Règl. COBAC ; MINFI
+Conservation
+N
+[D]
+5
+Rapports d'exécution budgétaire (mensuel)
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[C]
+6
+Relevés de comptes bancaires institutionnels
+Chrono
+10 ans
+Loi fiscale
+Conservation
+P+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Fiscalité & Obligations légales
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Déclarations fiscales mensuelles (TVA, IS, IRPP)
+Chrono
+10 ans
+CGI Cameroun
+Conservation
+P+N
+[C]
+2
+Liasse fiscale annuelle
+Chrono
+10 ans
+CGI Cameroun
+Conservation définitive
+P+N
+[D]
+3
+Déclarations CNPS (cotisations sociales)
+Chrono
+30 ans
+Code Travail Cameroun ; CNPS
+Conservation définitive
+P+N
+[C]
+4
+Déclarations de reporting BEAC / COBAC
+Chrono
+10 ans
+Règl. COBAC ; Règl. BEAC
+Conservation
+N
+[C]
+5
+Actes de propriété / baux des locaux occupés
+Par actif
+Durée + 10 ans
+Code Civil Cameroun
+Conservation définitive
+P+N
+[D]
+6
+Contrats de prestation de services (fournisseurs)
+Alphab.
+10 ans
+Code Civil ; OHADA
+Conservation
+P+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Administration générale
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Correspondances officielles (MINFI, COBAC, BEAC, DGI)
+Chrono thém.
+30 ans
+Règl. COBAC ; Lois fiscales
+Conservation définitive
+P+N
+[D]
+2
+Procès-verbaux de CA et d'Assemblée Générale
+Chrono
+Indéfinie
+OHADA – Loi sur les coopératives
+Conservation définitive
+P+N
+[D]
+3
+Statuts, actes modificatifs, agrément COBAC
+Thématique
+Indéfinie
+Loi COBAC ; Loi coopératives
+Conservation définitive (archives vitales)
+P+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+III. QUESTIONS SPÉCIFIQUES — DIRECTION ADMINISTRATIVE ET FINANCIÈRE (DAF)
+Questions ciblées sur les enjeux documentaires propres à ce département
+➤  Les états financiers annuels sont-ils archivés avec l'ensemble de leurs annexes et pièces justificatives, ainsi que le rapport du Commissaire aux Comptes ?
+➤  Les pièces comptables (factures, bons de commande, bons de livraison, ordres de virement) sont-elles classées chronologiquement et peuvent-elles être retrouvées en moins de 30 minutes lors d'un contrôle fiscal ?
+➤  Les déclarations fiscales (TVA, IS, IRPP) et leurs accusés de réception de la DGI sont-ils conservés ensemble et accessibles immédiatement ?
+➤  Les documents vitaux (statuts, agréments COBAC, PV d'AG fondateur, actes de propriété) sont-ils classés à part dans un coffre ignifugé avec inventaire ?
+➤  Comment les contrats fournisseurs expirés sont-ils archivés ? Existe-t-il un suivi des délais de conservation contractuels ?
+➤  Les rapports de reporting BEAC/COBAC transmis sont-ils archivés avec les accusés de réception pour preuve de soumission dans les délais ?
+IV. VERSEMENT ET CIRCUIT DOCUMENTAIRE
+Analyser le flux de versement des documents aux archives centrales du CEPI
+➤  Tous les documents produits par votre département font-ils l'objet d'un versement aux archives centrales ? Lesquels ne sont jamais versés et pourquoi ?
+➤  Qui est responsable du versement au sein de votre département ? Un correspondant archives est-il désigné ?
+➤  À quelle fréquence les versements sont-ils effectués (mensuelle, trimestrielle, annuelle) ?
+➤  Un bordereau de versement est-il systématiquement utilisé ? Ce bordereau est-il signé et conservé par les deux parties ?
+➤  Comment les archives numériques de votre département sont-elles transférées (dossier réseau partagé, GED, clé USB, email) ?
+Tableau de suivi des versements :
+Série/Type de document
+Fréquence versement
+Dernier versement (date)
+Bordereau utilisé
+Support
+Observation
+V. ÉTAT DES FONDS CONSERVÉS DANS LE DÉPARTEMENT
+Inventorier les archives physiques et numériques actuellement conservées dans les bureaux du département
+Instructions : compléter une ligne par dossier, série ou unité documentaire identifiée lors de la visite terrain.
+N°
+Intitulé / Objet / Série de documents
+Dates extrêmes
+Producteur
+Volume (ML/cm/nb)
+Support
+Localisation
+Observation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+VI. PROBLÈMES IDENTIFIÉS ET DYSFONCTIONNEMENTS
+N°
+Description du problème / dysfonctionnement
+Solution existante
+Recommandation souhaitée
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+VII. ÉQUIPEMENTS ET MATÉRIEL D'ARCHIVAGE DU DÉPARTEMENT
+7.1 — Matériel physique de conservation (existant) :
+N°
+Désignation
+Quantité
+État
+Adéquation
+Observation
+1
+Boîtes d'archives (carton neutre)
+2
+Armoires de rangement (métal/bois)
+3
+Chemises à sangle / kraft
+4
+Classeurs / Chronos / Registres
+5
+Coffre-fort ou armoire sécurisée
+6
+Étiquettes et matériel de cotation
+7.2 — Équipements informatiques utilisés pour l'archivage :
+N°
+Désignation et caractéristiques
+Usage dans la gestion documentaire
+État
+Observation
+1
+Ordinateur / Poste de travail
+2
+Scanner (format, vitesse)
+3
+Accès Internet / Intranet
+4
+Logiciel métier / applicatif
+5
+Stockage réseau (dossier partagé / NAS)
+6
+Disque dur externe / clé USB
+7.3 — Besoins en matériel et équipements :
+N°
+Désignation souhaitée
+Quantité
+Justification du besoin
+1
+2
+3
+4
+5
+6
+VIII. BESOINS EN FORMATION ET DÉVELOPPEMENT DES COMPÉTENCES
+➤  Le personnel de votre département a-t-il reçu des formations en archivistique ou gestion documentaire ? Si oui, lesquelles et quand ?
+➤  Quels sont les besoins prioritaires en formation identifiés pour améliorer la gestion des archives dans votre département ?
+N°
+Compétence / Thème de formation souhaité
+Justification
+Public
+Priorité
+1
+2
+3
+4
+5
+6
+7
+IX. DOCUMENTS À RECUEILLIR LORS DE LA MISSION
+Documents probants à demander et collecter auprès du responsable du département
+N°
+Document à recueillir
+Disponible
+Observation / Date
+1
+Organigramme du département avec noms et fonctions
+☐ Oui  ☐ Non
+2
+Plan de classement des documents du service (si existant)
+☐ Oui  ☐ Non
+3
+Exemple de bordereau de versement aux archives centrales
+☐ Oui  ☐ Non
+4
+Registre de prêt ou de communication des documents
+☐ Oui  ☐ Non
+5
+Extrait d'inventaire ou d'état des fonds
+☐ Oui  ☐ Non
+6
+Manuel de procédures / guide de travail du département
+☐ Oui  ☐ Non
+7
+Rapport d'activité récent du département
+☐ Oui  ☐ Non
+8
+Exemple de : Grand livre comptable
+☐ Oui  ☐ Non
+9
+Exemple de : Journal comptable général (journalier)
+☐ Oui  ☐ Non
+10
+Exemple de : Plan de trésorerie prévisionnel (mensuel/annuel)
+☐ Oui  ☐ Non
+11
+Exemple de : Rapport de trésorerie quotidien
+☐ Oui  ☐ Non
+12
+Liste des dossiers actifs en cours de traitement
+☐ Oui  ☐ Non
+13
+Tableau de bord ou indicateurs de suivi du département
+☐ Oui  ☐ Non
+X. SYNTHÈSE DE L'ENTRETIEN ET SIGNATURES
+✅  Points forts :
+⚠️  Dysfonctionnements et risques documentaires identifiés :
+💡  Recommandations préliminaires :
+📝  Observations libres du responsable interviewé :
+Chef de Mission
+_______________________
+Auditeur
+_______________________
+Responsable interviewé(e)
+_______________________
+--- END: CEPI_Guide_Producteur_DAF.docx ---
+
+--- START: CEPI_Guide_Producteur_Informatique.docx ---
+CAISSE D'ÉPARGNE ET DE PRÉVOYANCE / D'INVESTISSEMENT
+CEPI
+MISSION D'AUDIT DE LA GESTION COMPLÈTE DES ARCHIVES
+GUIDE D'ENTRETIEN — SERVICE PRODUCTEUR
+DÉPARTEMENT INFORMATIQUE & SYSTÈME D'INFORMATION
+Responsable SI, Administrateur Réseau, Techniciens
+ℹ️  OBJET DU GUIDE : Ce formulaire est à compléter lors de l'entretien avec le responsable du DÉPARTEMENT INFORMATIQUE & SYSTÈME D'INFORMATION. Il permet de recenser l'ensemble des documents produits et reçus par ce département, d'évaluer les pratiques d'archivage en vigueur, d'identifier les dysfonctionnements et de formuler des recommandations adaptées au secteur de la microfinance.
+FICHE D'IDENTIFICATION DE LA MISSION
+Référence mission :
+Version :
+V 1.0
+Département :
+DÉPARTEMENT INFORMATIQUE & SYSTÈME D'INFORMATION
+Responsable interviewé :
+Fonction :
+Téléphone / Email :
+Bureau / Localisation :
+Effectif du service :
+Nombre d'agents formés archives :
+Date d'entretien :
+Durée (h) :
+Chef de Mission :
+Auditeur :
+Signatures :
+Chef de Mission : _______________________     Auditeur : _______________________     Interviewé(e) : _______________________
+I. POLITIQUE D'ARCHIVAGE ET MAÎTRISE DES PROCÉDURES
+Évaluer la connaissance et l'application des règles d'archivage par le département
+➤  Le DÉPARTEMENT INFORMATIQUE & SYSTÈME D'INFORMATION a-t-il connaissance de la politique d'archivage institutionnelle du CEPI ? Une copie est-elle disponible dans le service ?
+➤  Maîtrisez-vous la procédure de transfert (versement) de vos documents aux archives centrales du CEPI ?
+Vérifier : connaissance du bordereau de versement, délais de transfert, interlocuteur archives, traçabilité.
+➤  Disposez-vous d'un plan de classement propre à votre département ? Est-il appliqué de manière homogène par tous les agents ?
+Demander à observer physiquement l'organisation des dossiers dans les armoires et sur les postes informatiques.
+➤  Des règles de nommage des fichiers numériques sont-elles en vigueur dans votre service ? Lesquelles ?
+Exemple de convention attendue : AAAAMMJJ_OBJET_VERSION_SERVICE.pdf
+➤  Avez-vous connaissance des durées légales de conservation (DUA) applicables aux documents produits par votre département ?
+Grille d'auto-évaluation — Maîtrise des procédures :
+Pratique évaluée
+Oui
+Non
+Observation / Commentaire
+Connaissance de la politique d'archivage du CEPI
+☐
+☐
+Utilisation d'un plan de classement documentaire
+☐
+☐
+Connaissance et application des durées légales de conservation
+☐
+☐
+Utilisation systématique du bordereau de versement
+☐
+☐
+Application des règles de nommage des fichiers numériques
+☐
+☐
+Présence d'un correspondant archives dans le département
+☐
+☐
+Sensibilisation du personnel à la confidentialité des documents
+☐
+☐
+Tri régulier et élimination des documents périmés
+☐
+☐
+II. RECENSEMENT DE LA PRODUCTION DOCUMENTAIRE
+Valider, compléter et annoter la liste des documents types produits et reçus par ce département. Indiquer les ajouts ou corrections.
+Infrastructure & Équipements
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Inventaire du matériel informatique (parc machines)
+Par type
+Durée vie + 5 ans
+Politique SI interne
+Conservation
+N
+[C]
+2
+Schéma d'architecture réseau (topologie)
+Thématique
+MAJ permanente
+Politique SI interne
+Conservation
+N
+[D]
+3
+Fiches techniques des équipements (serveurs, switchs)
+Par équipement
+Durée vie + 5 ans
+Politique SI interne
+Conservation
+N
+[C]
+4
+Contrats de maintenance matérielle
+Chrono
+10 ans
+Code Civil ; OHADA
+Conservation
+P+N
+[C]
+5
+Bons de livraison / factures équipements IT
+Chrono
+10 ans
+CGI Cameroun
+Conservation
+P+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Logiciels & Applications
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Licences logicielles (contrats, clés, dates d'expiration)
+Par logiciel
+Durée + 5 ans
+Droit propriété intellectuelle
+Conservation
+P+N
+[C]
+2
+Documentation technique des applications (core banking, GED)
+Par application
+MAJ permanente
+Politique SI interne
+Conservation
+N
+[C]
+3
+Contrats de maintenance logicielle / SLA
+Chrono
+10 ans
+Code Civil ; OHADA
+Conservation
+P+N
+[C]
+4
+Procédures de déploiement et de mise à jour
+Thématique
+MAJ permanente
+Politique SI interne
+Conservation
+N
+[C]
+5
+Registre des versions et changelogs
+Chrono
+5 ans
+Politique SI interne
+Conservation
+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Réseau & Sécurité
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Politique de Sécurité des Systèmes d'Information (PSSI)
+Thématique
+MAJ permanente
+ISO 27001 ; COBAC
+Conservation
+N
+[D]
+2
+Charte informatique utilisateurs (signée)
+Alphab. par agent
+Durée contrat + 5 ans
+Code Travail Cameroun
+Conservation
+P+N
+[C]
+3
+Journaux / logs des accès et événements (SIEM)
+Chrono
+5 ans
+Loi cybersécurité Cameroun ; COBAC
+Conservation
+N
+[D]
+4
+Procédures de gestion des habilitations et accès
+Thématique
+MAJ permanente
+Politique SI ; COBAC
+Conservation
+N
+[D]
+5
+Rapports d'audit de sécurité / tests d'intrusion (pentests)
+Chrono
+10 ans
+COBAC ; ISO 27001
+Conservation
+N
+[D]
+6
+Rapports d'incidents de sécurité et mesures correctives
+Chrono
+10 ans
+Loi cybersécurité Cameroun
+Conservation
+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Archivage numérique & PCA
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Plan de Continuité d'Activité informatique (PCA/PRA)
+Thématique
+MAJ permanente
+Règl. COBAC ; ISO 22301
+Conservation
+N
+[D]
+2
+Procédures de sauvegarde et de restauration des données
+Thématique
+MAJ permanente
+Politique SI interne
+Conservation
+N
+[D]
+3
+Rapports de tests de restauration des sauvegardes
+Chrono
+5 ans
+Politique SI interne
+Conservation
+N
+[C]
+4
+Procédures et chartes de numérisation
+Thématique
+MAJ permanente
+NF Z42-013 ; ISO 14641
+Conservation
+N
+[C]
+5
+Documentation du SAE / GED (paramétrage, utilisateurs)
+Thématique
+MAJ permanente
+Politique SI interne
+Conservation
+N
+[C]
+6
+Journaux de migration des données (historique des migrations)
+Chrono
+10 ans
+Politique SI interne
+Conservation
+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+III. QUESTIONS SPÉCIFIQUES — DÉPARTEMENT INFORMATIQUE & SYSTÈME D'INFORMATION
+Questions ciblées sur les enjeux documentaires propres à ce département
+➤  La documentation technique de toutes les applications critiques (core banking, GED, messagerie) est-elle à jour, accessible et archivée en lieu sécurisé ?
+➤  Les journaux d'accès (logs) aux systèmes sensibles sont-ils conservés pendant au moins 5 ans conformément à la réglementation COBAC et à la loi camerounaise sur la cybersécurité ?
+Vérifier le format de stockage, l'intégrité et l'accessibilité des logs archivés.
+➤  Les contrats de licence logicielle et de maintenance sont-ils archivés avec leurs dates d'expiration et font-ils l'objet d'un suivi pour renouvellement ?
+➤  Les procédures de sauvegarde et de restauration documentées sont-elles testées régulièrement ? Les rapports de tests sont-ils archivés ?
+Un test de restauration non documenté ne peut pas être considéré comme probant.
+➤  La charte informatique est-elle signée par tous les agents et ces signatures sont-elles archivées dans les dossiers individuels ?
+➤  Le PCA informatique est-il validé par la Direction Générale, archivé, et connu des personnes concernées par sa mise en œuvre ?
+IV. VERSEMENT ET CIRCUIT DOCUMENTAIRE
+Analyser le flux de versement des documents aux archives centrales du CEPI
+➤  Tous les documents produits par votre département font-ils l'objet d'un versement aux archives centrales ? Lesquels ne sont jamais versés et pourquoi ?
+➤  Qui est responsable du versement au sein de votre département ? Un correspondant archives est-il désigné ?
+➤  À quelle fréquence les versements sont-ils effectués (mensuelle, trimestrielle, annuelle) ?
+➤  Un bordereau de versement est-il systématiquement utilisé ? Ce bordereau est-il signé et conservé par les deux parties ?
+➤  Comment les archives numériques de votre département sont-elles transférées (dossier réseau partagé, GED, clé USB, email) ?
+Tableau de suivi des versements :
+Série/Type de document
+Fréquence versement
+Dernier versement (date)
+Bordereau utilisé
+Support
+Observation
+V. ÉTAT DES FONDS CONSERVÉS DANS LE DÉPARTEMENT
+Inventorier les archives physiques et numériques actuellement conservées dans les bureaux du département
+Instructions : compléter une ligne par dossier, série ou unité documentaire identifiée lors de la visite terrain.
+N°
+Intitulé / Objet / Série de documents
+Dates extrêmes
+Producteur
+Volume (ML/cm/nb)
+Support
+Localisation
+Observation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+VI. PROBLÈMES IDENTIFIÉS ET DYSFONCTIONNEMENTS
+N°
+Description du problème / dysfonctionnement
+Solution existante
+Recommandation souhaitée
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+VII. ÉQUIPEMENTS ET MATÉRIEL D'ARCHIVAGE DU DÉPARTEMENT
+7.1 — Matériel physique de conservation (existant) :
+N°
+Désignation
+Quantité
+État
+Adéquation
+Observation
+1
+Boîtes d'archives (carton neutre)
+2
+Armoires de rangement (métal/bois)
+3
+Chemises à sangle / kraft
+4
+Classeurs / Chronos / Registres
+5
+Coffre-fort ou armoire sécurisée
+6
+Étiquettes et matériel de cotation
+7.2 — Équipements informatiques utilisés pour l'archivage :
+N°
+Désignation et caractéristiques
+Usage dans la gestion documentaire
+État
+Observation
+1
+Ordinateur / Poste de travail
+2
+Scanner (format, vitesse)
+3
+Accès Internet / Intranet
+4
+Logiciel métier / applicatif
+5
+Stockage réseau (dossier partagé / NAS)
+6
+Disque dur externe / clé USB
+7.3 — Besoins en matériel et équipements :
+N°
+Désignation souhaitée
+Quantité
+Justification du besoin
+1
+2
+3
+4
+5
+6
+VIII. BESOINS EN FORMATION ET DÉVELOPPEMENT DES COMPÉTENCES
+➤  Le personnel de votre département a-t-il reçu des formations en archivistique ou gestion documentaire ? Si oui, lesquelles et quand ?
+➤  Quels sont les besoins prioritaires en formation identifiés pour améliorer la gestion des archives dans votre département ?
+N°
+Compétence / Thème de formation souhaité
+Justification
+Public
+Priorité
+1
+2
+3
+4
+5
+6
+7
+IX. DOCUMENTS À RECUEILLIR LORS DE LA MISSION
+Documents probants à demander et collecter auprès du responsable du département
+N°
+Document à recueillir
+Disponible
+Observation / Date
+1
+Organigramme du département avec noms et fonctions
+☐ Oui  ☐ Non
+2
+Plan de classement des documents du service (si existant)
+☐ Oui  ☐ Non
+3
+Exemple de bordereau de versement aux archives centrales
+☐ Oui  ☐ Non
+4
+Registre de prêt ou de communication des documents
+☐ Oui  ☐ Non
+5
+Extrait d'inventaire ou d'état des fonds
+☐ Oui  ☐ Non
+6
+Manuel de procédures / guide de travail du département
+☐ Oui  ☐ Non
+7
+Rapport d'activité récent du département
+☐ Oui  ☐ Non
+8
+Exemple de : Inventaire du matériel informatique (parc machines)
+☐ Oui  ☐ Non
+9
+Exemple de : Schéma d'architecture réseau (topologie)
+☐ Oui  ☐ Non
+10
+Exemple de : Licences logicielles (contrats, clés, dates d'expiration)
+☐ Oui  ☐ Non
+11
+Exemple de : Documentation technique des applications (core banking, GED)
+☐ Oui  ☐ Non
+12
+Liste des dossiers actifs en cours de traitement
+☐ Oui  ☐ Non
+13
+Tableau de bord ou indicateurs de suivi du département
+☐ Oui  ☐ Non
+X. SYNTHÈSE DE L'ENTRETIEN ET SIGNATURES
+✅  Points forts :
+⚠️  Dysfonctionnements et risques documentaires identifiés :
+💡  Recommandations préliminaires :
+📝  Observations libres du responsable interviewé :
+Chef de Mission
+_______________________
+Auditeur
+_______________________
+Responsable interviewé(e)
+_______________________
+--- END: CEPI_Guide_Producteur_Informatique.docx ---
+
+--- START: CEPI_Guide_Producteur_Marketing_Operations.docx ---
+CAISSE D'ÉPARGNE ET DE PRÉVOYANCE / D'INVESTISSEMENT
+CEPI
+MISSION D'AUDIT DE LA GESTION COMPLÈTE DES ARCHIVES
+GUIDE D'ENTRETIEN — SERVICE PRODUCTEUR
+DÉPARTEMENT MARKETING & OPÉRATIONS
+Chargé(s) d'opérations, Responsable Commercial, Agents de terrain
+ℹ️  OBJET DU GUIDE : Ce formulaire est à compléter lors de l'entretien avec le responsable du DÉPARTEMENT MARKETING & OPÉRATIONS. Il permet de recenser l'ensemble des documents produits et reçus par ce département, d'évaluer les pratiques d'archivage en vigueur, d'identifier les dysfonctionnements et de formuler des recommandations adaptées au secteur de la microfinance.
+FICHE D'IDENTIFICATION DE LA MISSION
+Référence mission :
+Version :
+V 1.0
+Département :
+DÉPARTEMENT MARKETING & OPÉRATIONS
+Responsable interviewé :
+Fonction :
+Téléphone / Email :
+Bureau / Localisation :
+Effectif du service :
+Nombre d'agents formés archives :
+Date d'entretien :
+Durée (h) :
+Chef de Mission :
+Auditeur :
+Signatures :
+Chef de Mission : _______________________     Auditeur : _______________________     Interviewé(e) : _______________________
+I. POLITIQUE D'ARCHIVAGE ET MAÎTRISE DES PROCÉDURES
+Évaluer la connaissance et l'application des règles d'archivage par le département
+➤  Le DÉPARTEMENT MARKETING & OPÉRATIONS a-t-il connaissance de la politique d'archivage institutionnelle du CEPI ? Une copie est-elle disponible dans le service ?
+➤  Maîtrisez-vous la procédure de transfert (versement) de vos documents aux archives centrales du CEPI ?
+Vérifier : connaissance du bordereau de versement, délais de transfert, interlocuteur archives, traçabilité.
+➤  Disposez-vous d'un plan de classement propre à votre département ? Est-il appliqué de manière homogène par tous les agents ?
+Demander à observer physiquement l'organisation des dossiers dans les armoires et sur les postes informatiques.
+➤  Des règles de nommage des fichiers numériques sont-elles en vigueur dans votre service ? Lesquelles ?
+Exemple de convention attendue : AAAAMMJJ_OBJET_VERSION_SERVICE.pdf
+➤  Avez-vous connaissance des durées légales de conservation (DUA) applicables aux documents produits par votre département ?
+Grille d'auto-évaluation — Maîtrise des procédures :
+Pratique évaluée
+Oui
+Non
+Observation / Commentaire
+Connaissance de la politique d'archivage du CEPI
+☐
+☐
+Utilisation d'un plan de classement documentaire
+☐
+☐
+Connaissance et application des durées légales de conservation
+☐
+☐
+Utilisation systématique du bordereau de versement
+☐
+☐
+Application des règles de nommage des fichiers numériques
+☐
+☐
+Présence d'un correspondant archives dans le département
+☐
+☐
+Sensibilisation du personnel à la confidentialité des documents
+☐
+☐
+Tri régulier et élimination des documents périmés
+☐
+☐
+II. RECENSEMENT DE LA PRODUCTION DOCUMENTAIRE
+Valider, compléter et annoter la liste des documents types produits et reçus par ce département. Indiquer les ajouts ou corrections.
+Gestion des Membres / Clients
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Fiche d'adhésion membre / sociétaire
+Alphab.
+10 ans après clôture
+Statuts CEPI ; Loi OHADA coopératives
+Conservation définitive
+P+N
+[B]
+2
+Copie pièce d'identité et justificatif domicile (KYC)
+Num. par membre
+10 ans après sortie
+Loi CENTIF N°2016/007 ; COBAC LBC/FT
+Conservation
+P+N
+[D]
+3
+Contrat d'ouverture de compte épargne
+Num. + Alphab.
+10 ans après clôture
+Règl. COBAC EMF 2017
+Conservation
+P+N
+[B]
+4
+Contrat de dépôt à terme (DAT)
+Chrono
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+P+N
+[C]
+5
+Fiche de signature / spécimen de signature
+Alphab.
+10 ans après clôture
+Règl. COBAC
+Conservation
+P
+[D]
+6
+Dossier de clôture de compte
+Chrono
+10 ans
+Code Civil ; Règl. COBAC
+Conservation
+P+N
+[D]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Opérations & Transactions
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Fiches / bons de dépôt (épargne)
+Chrono journalier
+10 ans
+Règl. COBAC EMF 2017 ; Loi fiscale
+Conservation
+P+N
+[B]
+2
+Fiches / bons de retrait
+Chrono journalier
+10 ans
+Règl. COBAC EMF 2017
+Conservation
+P+N
+[B]
+3
+Registre de caisse journalier
+Chrono
+10 ans
+Loi fiscale ; Règl. COBAC
+Conservation
+P+N
+[B]
+4
+Relevé de compte client (mensuel / annuel)
+Chrono par client
+10 ans
+Règl. COBAC
+Conservation
+N
+[A]
+5
+Ordre de virement / transfert interne
+Chrono
+10 ans
+Règl. COBAC ; Règl. BEAC
+Conservation
+P+N
+[B]
+6
+Documents opérations Mobile Money / transfert
+Chrono
+5 ans
+Règl. BEAC transferts
+Conservation
+N
+[B]
+7
+Rapports de rapprochement caisse-comptabilité
+Chrono
+10 ans
+Règl. COBAC
+Conservation
+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Marketing & Communication
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Plan marketing annuel
+Chrono
+5 ans
+Politique interne
+Conservation
+N
+[C]
+2
+Rapports de campagnes de collecte et de prospection
+Chrono
+5 ans
+Politique interne
+Élimination
+N
+[B]
+3
+Supports de communication (flyers, affiches, contenu web)
+Thématique
+5 ans
+Politique interne
+Élimination
+N
+[A]
+4
+Rapports statistiques de performance commerciale
+Chrono
+5 ans
+Politique interne
+Conservation
+N
+[C]
+5
+Enquêtes de satisfaction clients / membres
+Chrono
+3 ans
+Politique interne
+Élimination
+N
+[B]
+6
+Rapports d'activité des agences (mensuel)
+Chrono
+5 ans
+Règl. COBAC
+Conservation
+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+Réclamations & Service Client
+N°
+Intitulé du document
+Classement
+DUA
+Réf. juridique
+Sort
+Support
+Accès
+Observations / Localisation
+→ Nom et description précis
+Alpha/Chron/Num
+En années
+Loi / Décret / COBAC
+Élim./Cons.
+P/N/P+N
+[A]Tous [B]Bureau [C]Dir [D]Restreint
+1
+Registre des réclamations clients
+Chrono
+5 ans
+Charte service client
+Conservation
+P+N
+[B]
+2
+Dossiers de traitement des réclamations
+Num. par dossier
+5 ans
+Code de la consommation
+Conservation
+P+N
+[C]
+Documents supplémentaires identifiés lors de l'entretien (à ajouter) :
++
++
++
+III. QUESTIONS SPÉCIFIQUES — DÉPARTEMENT MARKETING & OPÉRATIONS
+Questions ciblées sur les enjeux documentaires propres à ce département
+➤  Les dossiers d'ouverture de compte sont-ils complets et conformes aux exigences KYC de la CENTIF et de la COBAC ? Qui effectue la vérification ?
+➤  Les pièces d'identité et justificatifs collectés lors de l'adhésion sont-ils conservés de manière sécurisée et protégés contre tout accès non autorisé ?
+➤  Le registre de caisse journalier est-il arrêté, signé et archivé chaque soir avant fermeture ? Existe-t-il une procédure de rapprochement ?
+➤  Comment les opérations de transfert / Mobile Money sont-elles tracées et archivées pour permettre tout contrôle ultérieur de la COBAC ou de la BEAC ?
+Vérifier l'existence de journaux de transactions et leur durée de conservation.
+➤  Les contrats de dépôt à terme (DAT) expirés sont-ils versés aux archives avec les justificatifs de remboursement ?
+➤  Les dossiers de réclamations clients sont-ils numérotés, tracés et leurs réponses archivées pour audit éventuel ?
+IV. VERSEMENT ET CIRCUIT DOCUMENTAIRE
+Analyser le flux de versement des documents aux archives centrales du CEPI
+➤  Tous les documents produits par votre département font-ils l'objet d'un versement aux archives centrales ? Lesquels ne sont jamais versés et pourquoi ?
+➤  Qui est responsable du versement au sein de votre département ? Un correspondant archives est-il désigné ?
+➤  À quelle fréquence les versements sont-ils effectués (mensuelle, trimestrielle, annuelle) ?
+➤  Un bordereau de versement est-il systématiquement utilisé ? Ce bordereau est-il signé et conservé par les deux parties ?
+➤  Comment les archives numériques de votre département sont-elles transférées (dossier réseau partagé, GED, clé USB, email) ?
+Tableau de suivi des versements :
+Série/Type de document
+Fréquence versement
+Dernier versement (date)
+Bordereau utilisé
+Support
+Observation
+V. ÉTAT DES FONDS CONSERVÉS DANS LE DÉPARTEMENT
+Inventorier les archives physiques et numériques actuellement conservées dans les bureaux du département
+Instructions : compléter une ligne par dossier, série ou unité documentaire identifiée lors de la visite terrain.
+N°
+Intitulé / Objet / Série de documents
+Dates extrêmes
+Producteur
+Volume (ML/cm/nb)
+Support
+Localisation
+Observation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+VI. PROBLÈMES IDENTIFIÉS ET DYSFONCTIONNEMENTS
+N°
+Description du problème / dysfonctionnement
+Solution existante
+Recommandation souhaitée
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+VII. ÉQUIPEMENTS ET MATÉRIEL D'ARCHIVAGE DU DÉPARTEMENT
+7.1 — Matériel physique de conservation (existant) :
+N°
+Désignation
+Quantité
+État
+Adéquation
+Observation
+1
+Boîtes d'archives (carton neutre)
+2
+Armoires de rangement (métal/bois)
+3
+Chemises à sangle / kraft
+4
+Classeurs / Chronos / Registres
+5
+Coffre-fort ou armoire sécurisée
+6
+Étiquettes et matériel de cotation
+7.2 — Équipements informatiques utilisés pour l'archivage :
+N°
+Désignation et caractéristiques
+Usage dans la gestion documentaire
+État
+Observation
+1
+Ordinateur / Poste de travail
+2
+Scanner (format, vitesse)
+3
+Accès Internet / Intranet
+4
+Logiciel métier / applicatif
+5
+Stockage réseau (dossier partagé / NAS)
+6
+Disque dur externe / clé USB
+7.3 — Besoins en matériel et équipements :
+N°
+Désignation souhaitée
+Quantité
+Justification du besoin
+1
+2
+3
+4
+5
+6
+VIII. BESOINS EN FORMATION ET DÉVELOPPEMENT DES COMPÉTENCES
+➤  Le personnel de votre département a-t-il reçu des formations en archivistique ou gestion documentaire ? Si oui, lesquelles et quand ?
+➤  Quels sont les besoins prioritaires en formation identifiés pour améliorer la gestion des archives dans votre département ?
+N°
+Compétence / Thème de formation souhaité
+Justification
+Public
+Priorité
+1
+2
+3
+4
+5
+6
+7
+IX. DOCUMENTS À RECUEILLIR LORS DE LA MISSION
+Documents probants à demander et collecter auprès du responsable du département
+N°
+Document à recueillir
+Disponible
+Observation / Date
+1
+Organigramme du département avec noms et fonctions
+☐ Oui  ☐ Non
+2
+Plan de classement des documents du service (si existant)
+☐ Oui  ☐ Non
+3
+Exemple de bordereau de versement aux archives centrales
+☐ Oui  ☐ Non
+4
+Registre de prêt ou de communication des documents
+☐ Oui  ☐ Non
+5
+Extrait d'inventaire ou d'état des fonds
+☐ Oui  ☐ Non
+6
+Manuel de procédures / guide de travail du département
+☐ Oui  ☐ Non
+7
+Rapport d'activité récent du département
+☐ Oui  ☐ Non
+8
+Exemple de : Fiche d'adhésion membre / sociétaire
+☐ Oui  ☐ Non
+9
+Exemple de : Copie pièce d'identité et justificatif domicile (KYC)
+☐ Oui  ☐ Non
+10
+Exemple de : Fiches / bons de dépôt (épargne)
+☐ Oui  ☐ Non
+11
+Exemple de : Fiches / bons de retrait
+☐ Oui  ☐ Non
+12
+Liste des dossiers actifs en cours de traitement
+☐ Oui  ☐ Non
+13
+Tableau de bord ou indicateurs de suivi du département
+☐ Oui  ☐ Non
+X. SYNTHÈSE DE L'ENTRETIEN ET SIGNATURES
+✅  Points forts :
+⚠️  Dysfonctionnements et risques documentaires identifiés :
+💡  Recommandations préliminaires :
+📝  Observations libres du responsable interviewé :
+Chef de Mission
+_______________________
+Auditeur
+_______________________
+Responsable interviewé(e)
+_______________________
+--- END: CEPI_Guide_Producteur_Marketing_Operations.docx ---
+

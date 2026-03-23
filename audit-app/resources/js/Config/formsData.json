@@ -1,0 +1,1638 @@
+{
+  "audit": {
+    "II": [
+      {
+        "id": 1,
+        "titre": "Plan d'audit annuel (PAA) approuvé par le Conseil",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017 ; Normes IIA",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Programme de travail de chaque mission d'audit",
+        "classement": "Par mission",
+        "dua": "10 ans",
+        "ref": "Normes IIA ; Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Charte d'audit interne approuvée par le CA",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Normes IIA ; Règl. COBAC",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Univers d'audit (cartographie des entités auditables)",
+        "classement": "Thématique",
+        "dua": "5 ans (MAJ annuelle)",
+        "ref": "Normes IIA",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Dossier permanent de la mission (DP)",
+        "classement": "Par mission + chrono",
+        "dua": "10 ans",
+        "ref": "Normes IIA ; Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Dossier de travail courant (feuilles de travail, tests)",
+        "classement": "Par mission",
+        "dua": "10 ans",
+        "ref": "Normes IIA",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Rapport provisoire d'audit (avant contradiction)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Normes IIA",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Procès-verbal de réunion de restitution / contradiction",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Normes IIA",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 5,
+        "titre": "Rapport définitif d'audit interne validé",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "Normes IIA ; Règl. COBAC",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Réponses de l'audité et plan d'action correctif",
+        "classement": "Rattaché au rapport",
+        "dua": "10 ans",
+        "ref": "Normes IIA ; Règl. COBAC",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Tableau de suivi des recommandations (TSR)",
+        "classement": "Chrono / Par mission",
+        "dua": "10 ans",
+        "ref": "Normes IIA ; Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Rapports de suivi de mise en œuvre (semestriel)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Normes IIA",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Synthèse annuelle des recommandations (au CA)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Rapport annuel de l'audit interne (au CA / Comité d'audit)",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "Normes IIA ; Règl. COBAC",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Rapports d'audit externe (CAC, inspecteurs COBAC)",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "OHADA ; Règl. COBAC",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Procès-verbaux du Comité d'audit (si existant)",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "Règl. COBAC ; Statuts CEPI",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Correspondances avec les auditeurs externes et la COBAC",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      }
+    ],
+    "III": [
+      "Les dossiers de travail de chaque mission d'audit sont-ils complets, numérotés et contiennent-ils toutes les preuves d'audit (feuilles de travail, tests, documents collectés) ?",
+      "Les rapports provisoires, les procès-verbaux de contradiction et les rapports définitifs sont-ils archivés ensemble dans un dossier unique par mission ?",
+      "Le tableau de suivi des recommandations (TSR) est-il mis à jour après chaque mission et archivé à chaque révision ? Les preuves de clôture des recommandations sont-elles conservées ?",
+      "L'indépendance de la fonction d'audit est-elle garantie par l'organisation de l'archivage (accès restreint aux dossiers d'audit, conservation sécurisée) ?",
+      "Les rapports d'audit interne sont-ils transmis au Conseil d'Administration avec accusé de réception ? Ces accusés sont-ils archivés avec les rapports ?",
+      "Les rapports des inspecteurs COBAC et les réponses de la direction sont-ils archivés ensemble et conservés pendant au moins 30 ans ?"
+    ],
+    "IX": [
+      {
+        "id": 1,
+        "document": "Organigramme du département avec noms et fonctions"
+      },
+      {
+        "id": 2,
+        "document": "Plan de classement des documents du service (si existant)"
+      },
+      {
+        "id": 3,
+        "document": "Exemple de bordereau de versement aux archives centrales"
+      },
+      {
+        "id": 4,
+        "document": "Registre de prêt ou de communication des documents"
+      },
+      {
+        "id": 5,
+        "document": "Extrait d'inventaire ou d'état des fonds"
+      },
+      {
+        "id": 6,
+        "document": "Manuel de procédures / guide de travail du département"
+      },
+      {
+        "id": 7,
+        "document": "Rapport d'activité récent du département"
+      },
+      {
+        "id": 8,
+        "document": "Exemple de : Plan d'audit annuel (PAA) approuvé par le Conseil"
+      },
+      {
+        "id": 9,
+        "document": "Exemple de : Programme de travail de chaque mission d'audit"
+      },
+      {
+        "id": 10,
+        "document": "Exemple de : Dossier permanent de la mission (DP)"
+      },
+      {
+        "id": 11,
+        "document": "Exemple de : Dossier de travail courant (feuilles de travail, tests)"
+      },
+      {
+        "id": 12,
+        "document": "Liste des dossiers actifs en cours de traitement"
+      },
+      {
+        "id": 13,
+        "document": "Tableau de bord ou indicateurs de suivi du département"
+      }
+    ]
+  },
+  "conformite": {
+    "II": [
+      {
+        "id": 1,
+        "titre": "Dossiers KYC complets des membres/clients (connaissance client)",
+        "classement": "Alphab. / Num.",
+        "dua": "10 ans après sortie",
+        "ref": "Loi CENTIF N°2016/007 ; Règl. COBAC LBC/FT",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Déclarations de soupçon (DS) transmises à la CENTIF",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Loi CENTIF N°2016/007",
+        "sort": "Conservation définitive (confidentiel)",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Rapports de conformité réglementaire (mensuel/trimestriel)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Correspondances avec la COBAC (inspections, injonctions)",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 5,
+        "titre": "Rapports d'inspection de la COBAC",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Plans de mise en conformité et suivi des recommandations COBAC",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 7,
+        "titre": "Registre des transactions suspectes ou atypiques",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Loi CENTIF",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Programme annuel de contrôle interne (PACI)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Rapports de contrôle interne permanents",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Rapports de contrôle périodique (contrôles sur place)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Feuilles de travail et dossiers de contrôle",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 5,
+        "titre": "Tableaux de bord des indicateurs de risque (KRI)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC ; Bâle II/III adapté",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Fiches d'écart et plans d'action correctifs",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Cartographie des risques opérationnels et financiers",
+        "classement": "Thématique",
+        "dua": "5 ans (MAJ annuelle)",
+        "ref": "Règl. COBAC ; Bâle adapté",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Rapports de gestion des incidents opérationnels",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Politique de gestion des risques (document cadre)",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Rapports de stress test / simulation de crises",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Manuel de procédures opérationnelles (MPO)",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Règl. COBAC ; Politique interne",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Code de conduite et d'éthique du personnel",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Code Travail Cameroun",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[A]"
+      },
+      {
+        "id": 3,
+        "titre": "Politique LBC/FT validée par le CA",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Loi CENTIF",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      }
+    ],
+    "III": [
+      "Les dossiers KYC sont-ils complets pour 100% des membres actifs ? Quel est le taux de complétude des dossiers KYC des membres anciens ?",
+      "Les déclarations de soupçon (DS) transmises à la CENTIF sont-elles classifiées confidentielles, conservées séparément et accessibles uniquement aux personnes habilitées ?",
+      "Le plan de mise en conformité suite aux inspections COBAC est-il documenté, daté, suivi et les preuves de mise en œuvre archivées ?",
+      "La cartographie des risques est-elle revue annuellement ? Les versions successives sont-elles toutes archivées pour traçabilité de l'évolution des risques ?",
+      "Les fiches d'écart et leurs plans d'action correctifs sont-ils archivés avec les preuves de clôture des actions ?",
+      "Le manuel de procédures opérationnelles est-il versionné, signé par la Direction et toutes les versions précédentes archivées ?"
+    ],
+    "IX": [
+      {
+        "id": 1,
+        "document": "Organigramme du département avec noms et fonctions"
+      },
+      {
+        "id": 2,
+        "document": "Plan de classement des documents du service (si existant)"
+      },
+      {
+        "id": 3,
+        "document": "Exemple de bordereau de versement aux archives centrales"
+      },
+      {
+        "id": 4,
+        "document": "Registre de prêt ou de communication des documents"
+      },
+      {
+        "id": 5,
+        "document": "Extrait d'inventaire ou d'état des fonds"
+      },
+      {
+        "id": 6,
+        "document": "Manuel de procédures / guide de travail du département"
+      },
+      {
+        "id": 7,
+        "document": "Rapport d'activité récent du département"
+      },
+      {
+        "id": 8,
+        "document": "Exemple de : Dossiers KYC complets des membres/clients (connaissance client)"
+      },
+      {
+        "id": 9,
+        "document": "Exemple de : Déclarations de soupçon (DS) transmises à la CENTIF"
+      },
+      {
+        "id": 10,
+        "document": "Exemple de : Programme annuel de contrôle interne (PACI)"
+      },
+      {
+        "id": 11,
+        "document": "Exemple de : Rapports de contrôle interne permanents"
+      },
+      {
+        "id": 12,
+        "document": "Liste des dossiers actifs en cours de traitement"
+      },
+      {
+        "id": 13,
+        "document": "Tableau de bord ou indicateurs de suivi du département"
+      }
+    ]
+  },
+  "credit": {
+    "II": [
+      {
+        "id": 1,
+        "titre": "Dossier de demande de crédit (fiche de renseignements)",
+        "classement": "Chronologique",
+        "dua": "10 ans",
+        "ref": "Loi N°2016/007 CPC ; Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Rapport d'analyse financière du demandeur",
+        "classement": "Chronologique",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017/01",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Fiche de scoring / notation du risque",
+        "classement": "Chronologique",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC ; Politique crédit interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "Procès-verbal du Comité de Crédit",
+        "classement": "Chronologique",
+        "dua": "30 ans",
+        "ref": "Règl. COBAC EMF 2017 ; OHADA",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Lettre de notification de décision (accord/rejet)",
+        "classement": "Chrono par client",
+        "dua": "10 ans",
+        "ref": "Code Civil Cameroun",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Contrat de prêt signé (toutes clauses)",
+        "classement": "Alphab. + Num.",
+        "dua": "10 ans après solde",
+        "ref": "OHADA – Acte Uniforme crédit ; Code Civil",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Avenant / modification de contrat de prêt",
+        "classement": "Rattaché au dossier",
+        "dua": "10 ans après solde",
+        "ref": "OHADA",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Titre de garantie hypothécaire (original)",
+        "classement": "Num. par dossier",
+        "dua": "Durée vie + 10 ans",
+        "ref": "OHADA – Acte Uniforme sûretés",
+        "sort": "Conservation définitive",
+        "support": "P",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Contrat de nantissement / gage",
+        "classement": "Num. par dossier",
+        "dua": "10 ans après main-levée",
+        "ref": "OHADA – Acte Uniforme sûretés",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 5,
+        "titre": "Caution solidaire (acte notarié ou sous seing privé)",
+        "classement": "Num. par dossier",
+        "dua": "10 ans après solde",
+        "ref": "OHADA",
+        "sort": "Conservation",
+        "support": "P",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Assurance vie / assurance emprunteur",
+        "classement": "Num. par dossier",
+        "dua": "Durée du prêt + 5 ans",
+        "ref": "Code des Assurances CIMA",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Tableau d'amortissement du prêt",
+        "classement": "Num. par dossier",
+        "dua": "10 ans après solde",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Fiche de suivi du remboursement (historique)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Rapport mensuel du portefeuille de crédit",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "Rapport NPL / créances en souffrance (PAR30/PAR90)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Mise en demeure / lettre de relance (1ère, 2ème, 3ème)",
+        "classement": "Chrono par dossier",
+        "dua": "10 ans",
+        "ref": "Code Civil Cameroun",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 6,
+        "titre": "Dossier de contentieux et de recouvrement judiciaire",
+        "classement": "Num. + Alphab.",
+        "dua": "30 ans",
+        "ref": "OHADA ; Code Procédure Civile",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 7,
+        "titre": "Acte de saisie / jugement / mainlevée",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "OHADA ; CPC Cameroun",
+        "sort": "Conservation définitive",
+        "support": "P",
+        "acces": "[D]"
+      },
+      {
+        "id": 8,
+        "titre": "Rapport de provisionnement des créances douteuses",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Rapport mensuel d'activité crédit (indicateurs clés)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "État des encours de crédit par produit",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Rapports de visite terrain / monitoring client",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Politique crédit interne",
+        "sort": "Élimination",
+        "support": "P+N",
+        "acces": "[C]"
+      }
+    ],
+    "III": [
+      "Les dossiers de crédit sont-ils complets et contiennent-ils systématiquement tous les documents requis par la politique crédit du CEPI et la réglementation COBAC ?",
+      "Les documents de garantie (titres fonciers, actes de nantissement) sont-ils conservés dans un coffre sécurisé avec accès restreint ?",
+      "Comment les dossiers de crédit en contentieux sont-ils archivés et suivis ? Existe-t-il un registre distinct des dossiers contentieux ?",
+      "Les PV des comités de crédit sont-ils systématiquement signés, numérotés et archivés dans les délais réglementaires ?",
+      "Les rapports NPL (PAR30/PAR90) sont-ils produits et archivés mensuellement conformément aux exigences COBAC ?",
+      "Comment les documents de prêts soldés sont-ils traités ? Sont-ils basculés vers les archives intermédiaires ou définitives selon un calendrier défini ?"
+    ],
+    "IX": [
+      {
+        "id": 1,
+        "document": "Organigramme du département avec noms et fonctions"
+      },
+      {
+        "id": 2,
+        "document": "Plan de classement des documents du service (si existant)"
+      },
+      {
+        "id": 3,
+        "document": "Exemple de bordereau de versement aux archives centrales"
+      },
+      {
+        "id": 4,
+        "document": "Registre de prêt ou de communication des documents"
+      },
+      {
+        "id": 5,
+        "document": "Extrait d'inventaire ou d'état des fonds"
+      },
+      {
+        "id": 6,
+        "document": "Manuel de procédures / guide de travail du département"
+      },
+      {
+        "id": 7,
+        "document": "Rapport d'activité récent du département"
+      },
+      {
+        "id": 8,
+        "document": "Exemple de : Dossier de demande de crédit (fiche de renseignements)"
+      },
+      {
+        "id": 9,
+        "document": "Exemple de : Rapport d'analyse financière du demandeur"
+      },
+      {
+        "id": 10,
+        "document": "Exemple de : Contrat de prêt signé (toutes clauses)"
+      },
+      {
+        "id": 11,
+        "document": "Exemple de : Avenant / modification de contrat de prêt"
+      },
+      {
+        "id": 12,
+        "document": "Liste des dossiers actifs en cours de traitement"
+      },
+      {
+        "id": 13,
+        "document": "Tableau de bord ou indicateurs de suivi du département"
+      }
+    ]
+  },
+  "daf": {
+    "II": [
+      {
+        "id": 1,
+        "titre": "Grand livre comptable",
+        "classement": "Chrono / par compte",
+        "dua": "10 ans",
+        "ref": "Acte Uniforme OHADA Comptabilité ; CGI Cameroun",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Journal comptable général (journalier)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "OHADA ; Loi fiscale",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Balance générale mensuelle",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "États financiers annuels (bilan, compte de résultat, annexes)",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "OHADA ; Règl. COBAC ; Loi fiscale",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 5,
+        "titre": "Rapport du Commissaire aux Comptes (CAC)",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "OHADA – Acte Uniforme Sociétés",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Pièces comptables justificatives (factures, reçus, BS)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "CGI Cameroun ; Règl. COBAC",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 7,
+        "titre": "Fichier des immobilisations (amortissements)",
+        "classement": "Par catégorie",
+        "dua": "10 ans",
+        "ref": "OHADA",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Plan de trésorerie prévisionnel (mensuel/annuel)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC ; Loi finances",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Rapport de trésorerie quotidien",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Politique interne CEPI",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Rapports de rapprochement bancaire",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "Budget annuel et révisions budgétaires",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC ; MINFI",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 5,
+        "titre": "Rapports d'exécution budgétaire (mensuel)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 6,
+        "titre": "Relevés de comptes bancaires institutionnels",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Loi fiscale",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Déclarations fiscales mensuelles (TVA, IS, IRPP)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "CGI Cameroun",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Liasse fiscale annuelle",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "CGI Cameroun",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Déclarations CNPS (cotisations sociales)",
+        "classement": "Chrono",
+        "dua": "30 ans",
+        "ref": "Code Travail Cameroun ; CNPS",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "Déclarations de reporting BEAC / COBAC",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC ; Règl. BEAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Actes de propriété / baux des locaux occupés",
+        "classement": "Par actif",
+        "dua": "Durée + 10 ans",
+        "ref": "Code Civil Cameroun",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Contrats de prestation de services (fournisseurs)",
+        "classement": "Alphab.",
+        "dua": "10 ans",
+        "ref": "Code Civil ; OHADA",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Correspondances officielles (MINFI, COBAC, BEAC, DGI)",
+        "classement": "Chrono thém.",
+        "dua": "30 ans",
+        "ref": "Règl. COBAC ; Lois fiscales",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Procès-verbaux de CA et d'Assemblée Générale",
+        "classement": "Chrono",
+        "dua": "Indéfinie",
+        "ref": "OHADA – Loi sur les coopératives",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Statuts, actes modificatifs, agrément COBAC",
+        "classement": "Thématique",
+        "dua": "Indéfinie",
+        "ref": "Loi COBAC ; Loi coopératives",
+        "sort": "Conservation définitive (archives vitales)",
+        "support": "P+N",
+        "acces": "[D]"
+      }
+    ],
+    "III": [
+      "Les états financiers annuels sont-ils archivés avec l'ensemble de leurs annexes et pièces justificatives, ainsi que le rapport du Commissaire aux Comptes ?",
+      "Les pièces comptables (factures, bons de commande, bons de livraison, ordres de virement) sont-elles classées chronologiquement et peuvent-elles être retrouvées en moins de 30 minutes lors d'un contrôle fiscal ?",
+      "Les déclarations fiscales (TVA, IS, IRPP) et leurs accusés de réception de la DGI sont-ils conservés ensemble et accessibles immédiatement ?",
+      "Les documents vitaux (statuts, agréments COBAC, PV d'AG fondateur, actes de propriété) sont-ils classés à part dans un coffre ignifugé avec inventaire ?",
+      "Comment les contrats fournisseurs expirés sont-ils archivés ? Existe-t-il un suivi des délais de conservation contractuels ?",
+      "Les rapports de reporting BEAC/COBAC transmis sont-ils archivés avec les accusés de réception pour preuve de soumission dans les délais ?"
+    ],
+    "IX": [
+      {
+        "id": 1,
+        "document": "Organigramme du département avec noms et fonctions"
+      },
+      {
+        "id": 2,
+        "document": "Plan de classement des documents du service (si existant)"
+      },
+      {
+        "id": 3,
+        "document": "Exemple de bordereau de versement aux archives centrales"
+      },
+      {
+        "id": 4,
+        "document": "Registre de prêt ou de communication des documents"
+      },
+      {
+        "id": 5,
+        "document": "Extrait d'inventaire ou d'état des fonds"
+      },
+      {
+        "id": 6,
+        "document": "Manuel de procédures / guide de travail du département"
+      },
+      {
+        "id": 7,
+        "document": "Rapport d'activité récent du département"
+      },
+      {
+        "id": 8,
+        "document": "Exemple de : Grand livre comptable"
+      },
+      {
+        "id": 9,
+        "document": "Exemple de : Journal comptable général (journalier)"
+      },
+      {
+        "id": 10,
+        "document": "Exemple de : Plan de trésorerie prévisionnel (mensuel/annuel)"
+      },
+      {
+        "id": 11,
+        "document": "Exemple de : Rapport de trésorerie quotidien"
+      },
+      {
+        "id": 12,
+        "document": "Liste des dossiers actifs en cours de traitement"
+      },
+      {
+        "id": 13,
+        "document": "Tableau de bord ou indicateurs de suivi du département"
+      }
+    ]
+  },
+  "informatique": {
+    "II": [
+      {
+        "id": 1,
+        "titre": "Inventaire du matériel informatique (parc machines)",
+        "classement": "Par type",
+        "dua": "Durée vie + 5 ans",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Schéma d'architecture réseau (topologie)",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Fiches techniques des équipements (serveurs, switchs)",
+        "classement": "Par équipement",
+        "dua": "Durée vie + 5 ans",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "Contrats de maintenance matérielle",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Code Civil ; OHADA",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Bons de livraison / factures équipements IT",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "CGI Cameroun",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Licences logicielles (contrats, clés, dates d'expiration)",
+        "classement": "Par logiciel",
+        "dua": "Durée + 5 ans",
+        "ref": "Droit propriété intellectuelle",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Documentation technique des applications (core banking, GED)",
+        "classement": "Par application",
+        "dua": "MAJ permanente",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Contrats de maintenance logicielle / SLA",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Code Civil ; OHADA",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "Procédures de déploiement et de mise à jour",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Registre des versions et changelogs",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Politique de Sécurité des Systèmes d'Information (PSSI)",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "ISO 27001 ; COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Charte informatique utilisateurs (signée)",
+        "classement": "Alphab. par agent",
+        "dua": "Durée contrat + 5 ans",
+        "ref": "Code Travail Cameroun",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 3,
+        "titre": "Journaux / logs des accès et événements (SIEM)",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Loi cybersécurité Cameroun ; COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 4,
+        "titre": "Procédures de gestion des habilitations et accès",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Politique SI ; COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 5,
+        "titre": "Rapports d'audit de sécurité / tests d'intrusion (pentests)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "COBAC ; ISO 27001",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Rapports d'incidents de sécurité et mesures correctives",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Loi cybersécurité Cameroun",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Plan de Continuité d'Activité informatique (PCA/PRA)",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Règl. COBAC ; ISO 22301",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 2,
+        "titre": "Procédures de sauvegarde et de restauration des données",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Rapports de tests de restauration des sauvegardes",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 4,
+        "titre": "Procédures et chartes de numérisation",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "NF Z42-013 ; ISO 14641",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Documentation du SAE / GED (paramétrage, utilisateurs)",
+        "classement": "Thématique",
+        "dua": "MAJ permanente",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 6,
+        "titre": "Journaux de migration des données (historique des migrations)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Politique SI interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[D]"
+      }
+    ],
+    "III": [
+      "La documentation technique de toutes les applications critiques (core banking, GED, messagerie) est-elle à jour, accessible et archivée en lieu sécurisé ?",
+      "Les journaux d'accès (logs) aux systèmes sensibles sont-ils conservés pendant au moins 5 ans conformément à la réglementation COBAC et à la loi camerounaise sur la cybersécurité ?",
+      "Les contrats de licence logicielle et de maintenance sont-ils archivés avec leurs dates d'expiration et font-ils l'objet d'un suivi pour renouvellement ?",
+      "Les procédures de sauvegarde et de restauration documentées sont-elles testées régulièrement ? Les rapports de tests sont-ils archivés ?",
+      "La charte informatique est-elle signée par tous les agents et ces signatures sont-elles archivées dans les dossiers individuels ?",
+      "Le PCA informatique est-il validé par la Direction Générale, archivé, et connu des personnes concernées par sa mise en œuvre ?"
+    ],
+    "IX": [
+      {
+        "id": 1,
+        "document": "Organigramme du département avec noms et fonctions"
+      },
+      {
+        "id": 2,
+        "document": "Plan de classement des documents du service (si existant)"
+      },
+      {
+        "id": 3,
+        "document": "Exemple de bordereau de versement aux archives centrales"
+      },
+      {
+        "id": 4,
+        "document": "Registre de prêt ou de communication des documents"
+      },
+      {
+        "id": 5,
+        "document": "Extrait d'inventaire ou d'état des fonds"
+      },
+      {
+        "id": 6,
+        "document": "Manuel de procédures / guide de travail du département"
+      },
+      {
+        "id": 7,
+        "document": "Rapport d'activité récent du département"
+      },
+      {
+        "id": 8,
+        "document": "Exemple de : Inventaire du matériel informatique (parc machines)"
+      },
+      {
+        "id": 9,
+        "document": "Exemple de : Schéma d'architecture réseau (topologie)"
+      },
+      {
+        "id": 10,
+        "document": "Exemple de : Licences logicielles (contrats, clés, dates d'expiration)"
+      },
+      {
+        "id": 11,
+        "document": "Exemple de : Documentation technique des applications (core banking, GED)"
+      },
+      {
+        "id": 12,
+        "document": "Liste des dossiers actifs en cours de traitement"
+      },
+      {
+        "id": 13,
+        "document": "Tableau de bord ou indicateurs de suivi du département"
+      }
+    ]
+  },
+  "marketing": {
+    "II": [
+      {
+        "id": 1,
+        "titre": "Fiche d'adhésion membre / sociétaire",
+        "classement": "Alphab.",
+        "dua": "10 ans après clôture",
+        "ref": "Statuts CEPI ; Loi OHADA coopératives",
+        "sort": "Conservation définitive",
+        "support": "P+N",
+        "acces": "[B]"
+      },
+      {
+        "id": 2,
+        "titre": "Copie pièce d'identité et justificatif domicile (KYC)",
+        "classement": "Num. par membre",
+        "dua": "10 ans après sortie",
+        "ref": "Loi CENTIF N°2016/007 ; COBAC LBC/FT",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 3,
+        "titre": "Contrat d'ouverture de compte épargne",
+        "classement": "Num. + Alphab.",
+        "dua": "10 ans après clôture",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[B]"
+      },
+      {
+        "id": 4,
+        "titre": "Contrat de dépôt à terme (DAT)",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Fiche de signature / spécimen de signature",
+        "classement": "Alphab.",
+        "dua": "10 ans après clôture",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "P",
+        "acces": "[D]"
+      },
+      {
+        "id": 6,
+        "titre": "Dossier de clôture de compte",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Code Civil ; Règl. COBAC",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[D]"
+      },
+      {
+        "id": 1,
+        "titre": "Fiches / bons de dépôt (épargne)",
+        "classement": "Chrono journalier",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017 ; Loi fiscale",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[B]"
+      },
+      {
+        "id": 2,
+        "titre": "Fiches / bons de retrait",
+        "classement": "Chrono journalier",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC EMF 2017",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[B]"
+      },
+      {
+        "id": 3,
+        "titre": "Registre de caisse journalier",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Loi fiscale ; Règl. COBAC",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[B]"
+      },
+      {
+        "id": 4,
+        "titre": "Relevé de compte client (mensuel / annuel)",
+        "classement": "Chrono par client",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[A]"
+      },
+      {
+        "id": 5,
+        "titre": "Ordre de virement / transfert interne",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC ; Règl. BEAC",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[B]"
+      },
+      {
+        "id": 6,
+        "titre": "Documents opérations Mobile Money / transfert",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Règl. BEAC transferts",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[B]"
+      },
+      {
+        "id": 7,
+        "titre": "Rapports de rapprochement caisse-comptabilité",
+        "classement": "Chrono",
+        "dua": "10 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Plan marketing annuel",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Politique interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 2,
+        "titre": "Rapports de campagnes de collecte et de prospection",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Politique interne",
+        "sort": "Élimination",
+        "support": "N",
+        "acces": "[B]"
+      },
+      {
+        "id": 3,
+        "titre": "Supports de communication (flyers, affiches, contenu web)",
+        "classement": "Thématique",
+        "dua": "5 ans",
+        "ref": "Politique interne",
+        "sort": "Élimination",
+        "support": "N",
+        "acces": "[A]"
+      },
+      {
+        "id": 4,
+        "titre": "Rapports statistiques de performance commerciale",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Politique interne",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 5,
+        "titre": "Enquêtes de satisfaction clients / membres",
+        "classement": "Chrono",
+        "dua": "3 ans",
+        "ref": "Politique interne",
+        "sort": "Élimination",
+        "support": "N",
+        "acces": "[B]"
+      },
+      {
+        "id": 6,
+        "titre": "Rapports d'activité des agences (mensuel)",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Règl. COBAC",
+        "sort": "Conservation",
+        "support": "N",
+        "acces": "[C]"
+      },
+      {
+        "id": 1,
+        "titre": "Registre des réclamations clients",
+        "classement": "Chrono",
+        "dua": "5 ans",
+        "ref": "Charte service client",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[B]"
+      },
+      {
+        "id": 2,
+        "titre": "Dossiers de traitement des réclamations",
+        "classement": "Num. par dossier",
+        "dua": "5 ans",
+        "ref": "Code de la consommation",
+        "sort": "Conservation",
+        "support": "P+N",
+        "acces": "[C]"
+      }
+    ],
+    "III": [
+      "Les dossiers d'ouverture de compte sont-ils complets et conformes aux exigences KYC de la CENTIF et de la COBAC ? Qui effectue la vérification ?",
+      "Les pièces d'identité et justificatifs collectés lors de l'adhésion sont-ils conservés de manière sécurisée et protégés contre tout accès non autorisé ?",
+      "Le registre de caisse journalier est-il arrêté, signé et archivé chaque soir avant fermeture ? Existe-t-il une procédure de rapprochement ?",
+      "Comment les opérations de transfert / Mobile Money sont-elles tracées et archivées pour permettre tout contrôle ultérieur de la COBAC ou de la BEAC ?",
+      "Les contrats de dépôt à terme (DAT) expirés sont-ils versés aux archives avec les justificatifs de remboursement ?",
+      "Les dossiers de réclamations clients sont-ils numérotés, tracés et leurs réponses archivées pour audit éventuel ?"
+    ],
+    "IX": [
+      {
+        "id": 1,
+        "document": "Organigramme du département avec noms et fonctions"
+      },
+      {
+        "id": 2,
+        "document": "Plan de classement des documents du service (si existant)"
+      },
+      {
+        "id": 3,
+        "document": "Exemple de bordereau de versement aux archives centrales"
+      },
+      {
+        "id": 4,
+        "document": "Registre de prêt ou de communication des documents"
+      },
+      {
+        "id": 5,
+        "document": "Extrait d'inventaire ou d'état des fonds"
+      },
+      {
+        "id": 6,
+        "document": "Manuel de procédures / guide de travail du département"
+      },
+      {
+        "id": 7,
+        "document": "Rapport d'activité récent du département"
+      },
+      {
+        "id": 8,
+        "document": "Exemple de : Fiche d'adhésion membre / sociétaire"
+      },
+      {
+        "id": 9,
+        "document": "Exemple de : Copie pièce d'identité et justificatif domicile (KYC)"
+      },
+      {
+        "id": 10,
+        "document": "Exemple de : Fiches / bons de dépôt (épargne)"
+      },
+      {
+        "id": 11,
+        "document": "Exemple de : Fiches / bons de retrait"
+      },
+      {
+        "id": 12,
+        "document": "Liste des dossiers actifs en cours de traitement"
+      },
+      {
+        "id": 13,
+        "document": "Tableau de bord ou indicateurs de suivi du département"
+      }
+    ]
+  }
+}
